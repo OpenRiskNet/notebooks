@@ -3,7 +3,7 @@
 
 This tutorial explains how to use the BridgeDb identifier mapping service to translate HGNC names to Ensembl identifiers. This step is part of the OpenRiskNet use case to link Adverse Outcome Pathways to [WikiPathways](https://wikipathways.org/).
 
-First we need to load the Python library to allow calls to the [BridgeDb REST webservice](http://bridgedb-swagger.prod.openrisknet.org/swagger/):
+First we need to load the Python library to allow calls to the [BridgeDb REST webservice](http://bridgedb.prod.openrisknet.org/swagger/):
 
 
 ```python
@@ -14,7 +14,7 @@ Let's assume we're interested in the gene with HGNC MECP2 (FIXME: look up a gene
 
 
 ```python
-callUrl = 'http://bridgedb-swagger.prod.openrisknet.org/Human/xrefs/H/MECP2'
+callUrl = 'http://bridgedb.prod.openrisknet.org/Human/xrefs/H/MECP2'
 ```
 
 The default call returns all identifiers, not just for Ensembl:
