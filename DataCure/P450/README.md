@@ -20,7 +20,7 @@ As an example here is a request for one of the assays we will be using in this s
 You will notice a number of things:
 
 1. A set of assay results is returned
-1. Each results contains a number of assay values in various forms
+1. Each result contains a number of assay values in various forms
 1. Each result contains a canonical smiles value and that structure's ChEMBL ID
 1. Not all the results for the assay are returned. The next page of data can be fetched using the `page_meta.next` property.
 
@@ -28,8 +28,8 @@ You will notice a number of things:
 
 Details of how the Squonk cell handles this to fetch the entire dataset can be found in the 
 [cell description](https://squonk.it/docs/cells/ChEMBL%20Activities%20Fetcher/)
-and the [Javadoc for the key Java class](https://github.com/InformaticsMatters/squonk/blob/63386998ea67db4260e11db1f4566aebd7f93fc8/components/common-utils/src/main/groovy/org/squonk/chembl/ChemblClient.java) 
-but to cut a long story short the Squonk cell repeatedly calls the ChEMBL REST API to fetch all the data for the specified
+and the Javadoc for the [ChemblClient](https://github.com/InformaticsMatters/squonk/blob/63386998ea67db4260e11db1f4566aebd7f93fc8/components/common-utils/src/main/groovy/org/squonk/chembl/ChemblClient.java) 
+Java class but to cut a long story short the Squonk cell repeatedly calls the ChEMBL REST API to fetch all the data for the specified
 assay, storing the `activities.canonical_smiles` property as the structure of the molecule, the ChEMBL structure identifier
 as the `ChemblID` field, and the value of the `activities.standard_value` property stored as a field of the name 
 `{prefix}_{activities.standard_type}_{activities.standard_units}`
@@ -93,7 +93,7 @@ Here is that data:
 - SDF format: [results.sdf]()
 - JSON format: [data](results.json), [metadata](results_metadata.json)
 
-## Other CheEMBL assays
+## Other ChEMBL assays
 
 This approach should work with other ChEMBL assays, though this will be somewhat dependent on the nature of the data fields 
 with each assay.
