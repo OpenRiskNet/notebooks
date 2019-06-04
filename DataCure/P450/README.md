@@ -1,7 +1,7 @@
 # Cyp P450 dataset creation
 
-Here we describe generating a dataset of cytochrome P450 inhibition data that is created using a Squonk Computational
-Notebook to merge data from a number of ChEMBL datasets.
+Here we describe generating a dataset of cytochrome P450 inhibition data that is created using a [Squonk Computational
+Notebook](https://squonk.it/) to merge data from a number of ChEMBL datasets.
 
 Squonk has a cell that uses the ChEMBL REST API to fetch molecular and activity data for a particular ChEMBL assay.
 We use that cell to fetch data for four different cytochrome P450 assays, and then to merge those datasets into a single
