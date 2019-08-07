@@ -1,17 +1,17 @@
 import itertools
 
 
-def assignBasicMassProb(state, PPV, NPV):
+def assignBasicMassProb(state, probability, PPV, NPV):
     # returns {m_S, m_N, m_SN}
-    if state == 1:
+    if state == 'S':
         return {
-            'S': state * PPV, 
-            'N': (1. - state) * PPV, 
+            'S': probability * PPV, 
+            'N': (1. - probability) * PPV, 
             'SN': (1. - PPV)}
-    elif state == 0:
+    elif state == 'N':
         return {
-            'S': state * NPV, 
-            'N': (1. - state) * NPV, 
+            'S': (1. - probability) * NPV, 
+            'N': probability * NPV, 
             'SN': (1. - NPV)}
 
 
