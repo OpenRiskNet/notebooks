@@ -1,4 +1,4 @@
-SMILES,Bel_D,Bel_Y,Pls_D,Pls_Y,Pred_D,Pred_Y,Uncertainty_D,Uncertainty_Y,True,Lazar,Jaqpot,Conformal
+SMILES,Bel_D,Bel_Y,Pls_D,Pls_Y,Pred_D,Pred_Y,Uncertainty_D,Uncertainty_Y,True,Lazar,Jaqpot,CVAP
 OC[C@](c1onc(n1)c1ncn2-c3cccc(c3C(=O)N(Cc12)C)Cl)(O)C,0.9562411748882456,0.5094824680000001,0.9730027770010332,0.9856159594839999,penetrating,penetrating,0.016761602112787655,0.47613349148399986,non-penetrating,penetrating,penetrating,non-penetrating
 NCCc1nc2n(c1)cccc2,0.9744381431749596,0.631054212,0.9832471534314774,0.989150717812,penetrating,penetrating,0.008809010256517813,0.35809650581200003,non-penetrating,penetrating,penetrating,penetrating
 CCCN(CCC)CCc1ccc(c2c1CC(=C)N2)O,0.9926176097256414,0.948991212,0.9985846544747887,0.9986468601280001,penetrating,penetrating,0.005967044749147332,0.04965564812800005,penetrating,penetrating,penetrating,penetrating

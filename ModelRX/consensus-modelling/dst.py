@@ -92,6 +92,8 @@ def DempsterCombinationRule(q):
     }
 
 
+
+
 ### Make a prediction for a binary target variable based on the probability masses
 def predict(m):   
     belief = {
