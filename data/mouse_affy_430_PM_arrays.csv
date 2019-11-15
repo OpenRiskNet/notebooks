@@ -1,0 +1,3 @@
+Use in Big Data analysis?	Study_ID	Location	Dataset	Project	Species	Cell model	Group	Platform	CustomCDF	Remarks	# compounds	downloaded	normalized
+No		https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE35058	GSE35058	RIVM	mouse	primary hepatocytes	on line	Affymetrix HT MG-430 PM Array Plate		This data is wholly present in GSE44088	16		
+Yes	Study19	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE44088	GSE44088	RIVM	mouse	primary hepatocytes	on line	Affymetrix HT MG-430 PM Array Plate			26		

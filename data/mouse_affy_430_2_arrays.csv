@@ -1,0 +1,8 @@
+Use in Big Data analysis?	Study_ID	Location	Dataset	Project	Species	Cell model	Group	Platform	CustomCDF	Remarks	# compounds	downloaded	normalized
+No		https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE43977	GSE43977	LUMC	mouse	primary hepatocytes	on line	Affymetrix Mouse Genome 430 2.0 Array			17		
+Yes	Study17	/ngs-data/data_storage/transcriptomics/microarray/mrna/Aanjaag/Mathijs/km_8_cmps_archive/	E-MEXP-2539	Aanjaag_Mathijs/Jennen	mouse	primary hepatocytes	in house	Affymetrix Mouse Genome 430 2.0 Array			8		
+Yes	Study18	/ngs-data/data_storage/transcriptomics/microarray/mrna/Aanjaag/Mathijs/E-MEXP-2636/	E-MEXP-2636	Aanjaag_Jennen	mouse	primary hepatocytes	in house ?	Affymetrix Mouse Genome 430 2.0 Array			5		
+Yes	Study14	/ngs-data/data_storage/transcriptomics/microarray/mrna/NTC/NTC_WP4.1.1_E01/	DIXA-077	NTC_WP4.1.1_E01	mouse	primary hepatocytes	in house	Affymetrix Mouse Genome 430 2.0 Array			3		
+Yes	Study16	/ngs-data/data_storage/transcriptomics/microarray/mrna/Aanjaag/Mathijs/KM_4_compounds_archive/		Aanjaag_Mathijs	mouse	primary hepatocytes	in house	Affymetrix Mouse Genome 430 2.0 Array					
+Yes	Study15	/ngs-data/data_storage/data4transport/Rieswijk/Study_PMH_miRNA_mRNA_21_compounds/data/mRNA/	GSE72081	NTC_Rieswijk	mouse	primary hepatocytes	in house	Affymetrix Mouse Genome 430 2.0 Array		Contains 24h and 48h data from E-MEXP-2209	21		
+No			E-MEXP-2209	Aanjaag_Mathijs	mouse	primary hepatocytes	in house	Affymetrix Mouse Genome 430 2.0 Array		Data are present in KM_4_compounds_archive and km_8_cmps_archive	6		
