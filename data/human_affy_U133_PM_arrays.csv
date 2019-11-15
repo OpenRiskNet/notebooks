@@ -1,3 +1,0 @@
-Use in Big Data analysis?	Study_ID	Location	Dataset	Project	Species	Cell model	Group	Platform	CustomCDF	Remarks	# compounds	downloaded	normalized
-Yes	Study12	/ngs-data/data_storage/transcriptomics/microarray/mrna/Deferme/Lize_3compounds_archive/	GSE39291	Deferme	human	HepG2	in house	Affymetrix HT HG-U133+ PM Array Plate			3		
-Yes	Study13	/ngs-data/data_storage/transcriptomics/microarray/mrna/Deferme/GSE58235_RAW/	GSE58235	Deferme	human	HepG2	in house	Affymetrix HT HG-U133+ PM Array Plate		Also contains data using Affymetrix Human Genome U133 Plus 2.0 Array. These are coming from Magkoufopoulou study!			
