@@ -3,7 +3,7 @@
 A collection of Jupyter and Squonk notebooks developed for and with the 
 [OpenRiskNet VRE](https://home.prod.openrisknet.org/).
 
-As far as I know, folowing case studies also have their own repositories at gitlab:
+Following case studies also have their own repositories at gitlab:
 1. https://gitlab.com/bayjan/openrisknet_magkoufopoulou  
 2. https://gitlab.com/bayjan/openrisknet_sysgroup  
 
