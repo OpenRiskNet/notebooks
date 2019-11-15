@@ -1,0 +1,471 @@
+Source Name	Characteristics[Strain]	Factor Value[Compound]	Comment [ChEMBL ID]	Characteristics[Compound Class]	Characteristics[Control]	Characteristics[Sample Match]	Factor Value[Dose]	Characteristics[DoseUnit]	Characteristics[Vehicle]	array_file
+BPI-T1-AFB 10-24h-R-1-1	HepaRG	aflatoxin B1	CHEMBL1697694	Genotoxic	FALSE	BPI-T1-DMSO-24h	2.5	micromolar	DMSO	carcinogenomics_BPI-T1-AFB_10-24h-R-1-1.CEL
+BPI-T1-AFB 10-72h-R-1-1	HepaRG	aflatoxin B1	CHEMBL1697694	Genotoxic	FALSE	BPI-T1-DMSO-72h	2.5	micromolar	DMSO	carcinogenomics_BPI-T1-AFB_10-72h-R-1-1.CEL
+BPI-T1-CND 10-24h-R-1-1	HepaRG	clonidine	CHEMBL134	Non-carcinogen	FALSE	BPI-T1-DMSO-24h	0.1	micromolar	DMSO	carcinogenomics_BPI-T1-CND_10-24h-R-1-1.CEL
+BPI-T1-CND 10-72h-R-1-1	HepaRG	clonidine	CHEMBL134	Non-carcinogen	FALSE	BPI-T1-DMSO-72h	0.1	micromolar	DMSO	carcinogenomics_BPI-T1-CND_10-72h-R-1-1.CEL
+BPI-T1-CPM 10-24h-R-1-1	HepaRG	cyclophosphamide hydrate	CHEMBL1200796	Genotoxic	FALSE	BPI-T1-DMSO-24h	700	micromolar	DMSO	carcinogenomics_BPI-T1-CPM_10-24h-R-1-1.CEL
+BPI-T1-CPM 10-72h-R-1-1	HepaRG	cyclophosphamide hydrate	CHEMBL1200796	Genotoxic	FALSE	BPI-T1-DMSO-72h	700	micromolar	DMSO	carcinogenomics_BPI-T1-CPM_10-72h-R-1-1.CEL
+BPI-T1-DMSO-24h-R-2-1	HepaRG	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_BPI-T1-DMSO-24h-R-2-1.CEL
+BPI-T1-DMSO-24h-R-2-2	HepaRG	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_BPI-T1-DMSO-24h-R-2-2.CEL
+BPI-T1-DMSO-72h-R-2-1	HepaRG	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_BPI-T1-DMSO-72h-R-2-1.CEL
+BPI-T1-DMSO-72h-R-2-2	HepaRG	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_BPI-T1-DMSO-72h-R-2-2.CEL
+BPI-T1-PRN 10-24h-R-1-1	HepaRG	pirinixic acid	CHEMBL295416	Non-genotoxic	FALSE	BPI-T1-DMSO-24h	210	micromolar	DMSO	carcinogenomics_BPI-T1-PRN_10-24h-R-1-1.CEL
+BPI-T1-PRN 10-72h-R-1-1	HepaRG	pirinixic acid	CHEMBL295416	Non-genotoxic	FALSE	BPI-T1-DMSO-72h	210	micromolar	DMSO	carcinogenomics_BPI-T1-PRN_10-72h-R-1-1.CEL
+BPI-T1-TBT 10-24h-R-1-1	HepaRG	tolbutamide	CHEMBL782	Non-carcinogen	FALSE	BPI-T1-DMSO-24h	2000	micromolar	DMSO	carcinogenomics_BPI-T1-TBT_10-24h-R-1-1.CEL
+BPI-T1-TBT 10-72h-R-1-1	HepaRG	tolbutamide	CHEMBL782	Non-carcinogen	FALSE	BPI-T1-DMSO-72h	2000	micromolar	DMSO	carcinogenomics_BPI-T1-TBT_10-72h-R-1-1.CEL
+BPI-T1-TPA 10-24h-R-1-1	HepaRG	phorbol 13-acetate 12-myristate	CHEMBL279115	Non-genotoxic	FALSE	BPI-T1-DMSO-24h	35	micromolar	DMSO	carcinogenomics_BPI-T1-TPA_10-24h-R-1-1.CEL
+BPI-T1-TPA 10-72h-R-1-1	HepaRG	phorbol 13-acetate 12-myristate	CHEMBL279115	Non-genotoxic	FALSE	BPI-T1-DMSO-72h	35	micromolar	DMSO	carcinogenomics_BPI-T1-TPA_10-72h-R-1-1.CEL
+BPI-T2-2NF5-24h-R-1-1	HepaRG	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	BPI-T2-DMSO-24h	9	micromolar	DMSO	carcinogenomics_BPI-T2-2NF10-24h-R-1-1.CEL
+BPI-T2-2NF5-72h-R-1-1	HepaRG	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	BPI-T2-DMSO-72h	9	micromolar	DMSO	carcinogenomics_BPI-T2-2NF10-72h-R-1-1.CEL
+BPI-T2-2NF10-24h-R-1-1	HepaRG	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	BPI-T2-DMSO-24h	18	micromolar	DMSO	carcinogenomics_BPI-T2-2NF5-24h-R-1-1.CEL
+BPI-T2-2NF10-72h-R-1-1	HepaRG	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	BPI-T2-DMSO-72h	18	micromolar	DMSO	carcinogenomics_BPI-T2-2NF5-72h-R-1-1.CEL
+BPI-T2-AFB 10-24h-R-1-1	HepaRG	aflatoxin B1	CHEMBL1697694	Genotoxic	FALSE	BPI-T2-DMSO-24h	2.5	micromolar	DMSO	carcinogenomics_BPI-T2-AFB_10-24h-R-1-1.CEL
+BPI-T2-AFB 10-72h-R-1-1	HepaRG	aflatoxin B1	CHEMBL1697694	Genotoxic	FALSE	BPI-T2-DMSO-72h	2.5	micromolar	DMSO	carcinogenomics_BPI-T2-AFB_10-72h-R-1-1.CEL
+BPI-T2-BaP5-24h-R-1-1	HepaRG	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	BPI-T2-DMSO-24h	2.5	micromolar	DMSO	carcinogenomics_BPI-T2-BaP10-24h-R-1-1.CEL
+BPI-T2-BaP5-72h-R-1-1	HepaRG	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	BPI-T2-DMSO-72h	2.5	micromolar	DMSO	carcinogenomics_BPI-T2-BaP10-72h-R-1-1.CEL
+BPI-T2-BaP10-24h-R-1-1	HepaRG	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	BPI-T2-DMSO-24h	5	micromolar	DMSO	carcinogenomics_BPI-T2-BaP5-24h-R-1-1.CEL
+BPI-T2-BaP10-72h-R-1-1	HepaRG	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	BPI-T2-DMSO-72h	5	micromolar	DMSO	carcinogenomics_BPI-T2-BaP5-72h-R-1-1.CEL
+BPI-T2-CND 10-24h-R-1-1	HepaRG	clonidine	CHEMBL134	Non-carcinogen	FALSE	BPI-T2-DMSO-24h	0.1	micromolar	DMSO	carcinogenomics_BPI-T2-CND_10-24h-R-1-1.CEL
+BPI-T2-CND 10-72h-R-1-1	HepaRG	clonidine	CHEMBL134	Non-carcinogen	FALSE	BPI-T2-DMSO-72h	0.1	micromolar	DMSO	carcinogenomics_BPI-T2-CND_10-72h-R-1-1.CEL
+BPI-T2-CPM 10-24h-R-1-1	HepaRG	cyclophosphamide hydrate	CHEMBL1200796	Genotoxic	FALSE	BPI-T2-DMSO-24h	700	micromolar	DMSO	carcinogenomics_BPI-T2-CPM_10-24h-R-1-1.CEL
+BPI-T2-CPM 10-72h-R-1-1	HepaRG	cyclophosphamide hydrate	CHEMBL1200796	Genotoxic	FALSE	BPI-T2-DMSO-72h	700	micromolar	DMSO	carcinogenomics_BPI-T2-CPM_10-72h-R-1-1.CEL
+BPI-T2-DIC5-24h-R-1-1	HepaRG	diclofenac	CHEMBL139	Non-carcinogen	FALSE	BPI-T2-Media-24h	25	micromolar	Medium	carcinogenomics_BPI-T2-DIC10-24h-R-1-1.CEL
+BPI-T2-DIC5-72h-R-1-1	HepaRG	diclofenac	CHEMBL139	Non-carcinogen	FALSE	BPI-T2-Media-48h	25	micromolar	Medium	carcinogenomics_BPI-T2-DIC10-72h-R-1-1.CEL
+BPI-T2-DIC10-24h-R-1-1	HepaRG	diclofenac	CHEMBL139	Non-carcinogen	FALSE	BPI-T2-Media-24h	50	micromolar	Medium	carcinogenomics_BPI-T2-DIC5-24h-R-1-1.CEL
+BPI-T2-DIC10-72h-R-1-1	HepaRG	diclofenac	CHEMBL139	Non-carcinogen	FALSE	BPI-T2-Media-48h	50	micromolar	Medium	carcinogenomics_BPI-T2-DIC5-72h-R-1-1.CEL
+BPI-T2-DMN5-24h-R-1-1	HepaRG	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	BPI-T2-DMSO-24h	100	micromolar	DMSO	carcinogenomics_BPI-T2-DMN10-24h-R-1-1.CEL
+BPI-T2-DMN5-72h-R-1-1	HepaRG	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	BPI-T2-DMSO-72h	100	micromolar	DMSO	carcinogenomics_BPI-T2-DMN10-72h-R-1-1.CEL
+BPI-T2-DMN10-24h-R-1-1	HepaRG	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	BPI-T2-DMSO-24h	200	micromolar	DMSO	carcinogenomics_BPI-T2-DMN5-24h-R-1-1.CEL
+BPI-T2-DMN10-72h-R-1-1	HepaRG	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	BPI-T2-DMSO-72h	200	micromolar	DMSO	carcinogenomics_BPI-T2-DMN5-72h-R-1-1.CEL
+BPI-T2-DMO5-24h-R-1-1	HepaRG	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	BPI-T2-Media-24h	187.5	micromolar	Medium	carcinogenomics_BPI-T2-DMO10-24h-R-1-1.CEL
+BPI-T2-DMO5-72h-R-1-1	HepaRG	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	BPI-T2-Media-48h	187.5	micromolar	Medium	carcinogenomics_BPI-T2-DMO10-72h-R-1-1.CEL
+BPI-T2-DMO10-24h-R-1-1	HepaRG	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	BPI-T2-Media-24h	375	micromolar	Medium	carcinogenomics_BPI-T2-DMO5-24h-R-1-1.CEL
+BPI-T2-DMO10-72h-R-1-1	HepaRG	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	BPI-T2-Media-48h	375	micromolar	Medium	carcinogenomics_BPI-T2-DMO5-72h-R-1-1.CEL
+BPI-T2-DMSO-24h-R-1-1	HepaRG	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_BPI-T2-DMSO-24h-R-1-1.CEL
+BPI-T2-DMSO-24h-R-2-1	HepaRG	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_BPI-T2-DMSO-24h-R-2-1.CEL
+BPI-T2-DMSO-24h-R-2-2	HepaRG	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_BPI-T2-DMSO-24h-R-2-2.CEL
+BPI-T2-DMSO-72h-R-1-1	HepaRG	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_BPI-T2-DMSO-72h-R-1-1.CEL
+BPI-T2-DMSO-72h-R-2-1	HepaRG	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_BPI-T2-DMSO-72h-R-2-1.CEL
+BPI-T2-DMSO-72h-R-2-2	HepaRG	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_BPI-T2-DMSO-72h-R-2-2.CEL
+BPI-T2-Media-24h-R-1-1	HepaRG	untreated		CTRL	TRUE				Medium	carcinogenomics_BPI-T2-Media-24h-R-1-1.CEL
+BPI-T2-Media-72h-R-1-1	HepaRG	untreated		CTRL	TRUE				Medium	carcinogenomics_BPI-T2-Media-72h-R-1-1.CEL
+BPI-T2-MPH5-24h-R-1-1	HepaRG	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	BPI-T2-DMSO-24h	37.5	micromolar	DMSO	carcinogenomics_BPI-T2-MPH10-24h-R-1-1.CEL
+BPI-T2-MPH5-72h-R-1-1	HepaRG	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	BPI-T2-DMSO-72h	37.5	micromolar	DMSO	carcinogenomics_BPI-T2-MPH10-72h-R-1-1.CEL
+BPI-T2-MPH10-24h-R-1-1	HepaRG	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	BPI-T2-DMSO-24h	75	micromolar	DMSO	carcinogenomics_BPI-T2-MPH5-24h-R-1-1.CEL
+BPI-T2-MPH10-72h-R-1-1	HepaRG	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	BPI-T2-DMSO-72h	75	micromolar	DMSO	carcinogenomics_BPI-T2-MPH5-72h-R-1-1.CEL
+BPI-T2-NFE5-24h-R-1-1	HepaRG	nifedipine	CHEMBL193	Non-carcinogen	FALSE	BPI-T2-DMSO-24h	20	micromolar	DMSO	carcinogenomics_BPI-T2-NFE10-24h-R-1-1.CEL
+BPI-T2-NFE5-72h-R-1-1	HepaRG	nifedipine	CHEMBL193	Non-carcinogen	FALSE	BPI-T2-DMSO-72h	20	micromolar	DMSO	carcinogenomics_BPI-T2-NFE10-72h-R-1-1.CEL
+BPI-T2-NFE10-24h-R-1-1	HepaRG	nifedipine	CHEMBL193	Non-carcinogen	FALSE	BPI-T2-DMSO-24h	40	micromolar	DMSO	carcinogenomics_BPI-T2-NFE5-24h-R-1-1.CEL
+BPI-T2-NFE10-72h-R-1-1	HepaRG	nifedipine	CHEMBL193	Non-carcinogen	FALSE	BPI-T2-DMSO-72h	40	micromolar	DMSO	carcinogenomics_BPI-T2-NFE5-72h-R-1-1.CEL
+BPI-T2-PPX5-24h-R-1-1	HepaRG	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	BPI-T2-DMSO-24h	1.6	micromolar	DMSO	carcinogenomics_BPI-T2-PPX10-24h-R-1-1.CEL
+BPI-T2-PPX5-72h-R-1-1	HepaRG	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	BPI-T2-DMSO-72h	1.6	micromolar	DMSO	carcinogenomics_BPI-T2-PPX10-72h-R-1-1.CEL
+BPI-T2-PPX10-24h-R-1-1	HepaRG	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	BPI-T2-DMSO-24h	3.2	micromolar	DMSO	carcinogenomics_BPI-T2-PPX5-24h-R-1-1.CEL
+BPI-T2-PPX10-72h-R-1-1	HepaRG	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	BPI-T2-DMSO-72h	3.2	micromolar	DMSO	carcinogenomics_BPI-T2-PPX5-72h-R-1-1.CEL
+BPI-T2-PRN 10-24h-R-1-1	HepaRG	pirinixic acid	CHEMBL295416	Non-genotoxic	FALSE	BPI-T2-DMSO-24h	210	micromolar	DMSO	carcinogenomics_BPI-T2-PRN_10-24h-R-1-1.CEL
+BPI-T2-PRN 10-72h-R-1-1	HepaRG	pirinixic acid	CHEMBL295416	Non-genotoxic	FALSE	BPI-T2-DMSO-72h	210	micromolar	DMSO	carcinogenomics_BPI-T2-PRN_10-72h-R-1-1.CEL
+BPI-T2-SPB5-24h-R-1-1	HepaRG	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	BPI-T2-DMSO-24h	25	micromolar	DMSO	carcinogenomics_BPI-T2-SPB10-24h-R-1-1.CEL
+BPI-T2-SPB5-72h-R-1-1	HepaRG	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	BPI-T2-DMSO-72h	25	micromolar	DMSO	carcinogenomics_BPI-T2-SPB10-72h-R-1-1.CEL
+BPI-T2-SPB10-24h-R-1-1	HepaRG	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	BPI-T2-DMSO-24h	50	micromolar	DMSO	carcinogenomics_BPI-T2-SPB5-24h-R-1-1.CEL
+BPI-T2-SPB10-72h-R-1-1	HepaRG	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	BPI-T2-DMSO-72h	50	micromolar	DMSO	carcinogenomics_BPI-T2-SPB5-72h-R-1-1.CEL
+BPI-T2-TBT 10-24h-R-1-1	HepaRG	tolbutamide	CHEMBL782	Non-carcinogen	FALSE	BPI-T2-DMSO-24h	2000	micromolar	DMSO	carcinogenomics_BPI-T2-TBT_10-24h-R-1-1.CEL
+BPI-T2-TBT 10-72h-R-1-1	HepaRG	tolbutamide	CHEMBL782	Non-carcinogen	FALSE	BPI-T2-DMSO-72h	2000	micromolar	DMSO	carcinogenomics_BPI-T2-TBT_10-72h-R-1-1.CEL
+BPI-T2-TPA 10-24h-R-1-1	HepaRG	phorbol 13-acetate 12-myristate	CHEMBL279115	Non-genotoxic	FALSE	BPI-T2-DMSO-24h	35	micromolar	DMSO	carcinogenomics_BPI-T2-TPA_10-24h-R-1-1.CEL
+BPI-T2-TPA 10-72h-R-1-1	HepaRG	phorbol 13-acetate 12-myristate	CHEMBL279115	Non-genotoxic	FALSE	BPI-T2-DMSO-72h	35	micromolar	DMSO	carcinogenomics_BPI-T2-TPA_10-72h-R-1-1.CEL
+BPI-T3-2NF5-24h-R-1-1	HepaRG	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	BPI-T3-DMSO-24h	9	micromolar	DMSO	carcinogenomics_BPI-T3-2NF10-24h-R-1-1.CEL
+BPI-T3-2NF5-72h-R-1-1	HepaRG	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	BPI-T3-DMSO-72h	9	micromolar	DMSO	carcinogenomics_BPI-T3-2NF10-72h-R-1-1.CEL
+BPI-T3-2NF10-24h-R-1-1	HepaRG	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	BPI-T3-DMSO-24h	18	micromolar	DMSO	carcinogenomics_BPI-T3-2NF5-24h-R-1-1.CEL
+BPI-T3-2NF10-72h-R-1-1	HepaRG	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	BPI-T3-DMSO-72h	18	micromolar	DMSO	carcinogenomics_BPI-T3-2NF5-72h-R-1-1.CEL
+BPI-T3-AFB 10-24h-R-1-1	HepaRG	aflatoxin B1	CHEMBL1697694	Genotoxic	FALSE	BPI-T3-DMSO-24h	2.5	micromolar	DMSO	carcinogenomics_BPI-T3-AFB_10-24h-R-1-1.CEL
+BPI-T3-AFB 10-72h-R-1-1	HepaRG	aflatoxin B1	CHEMBL1697694	Genotoxic	FALSE	BPI-T3-DMSO-72h	2.5	micromolar	DMSO	carcinogenomics_BPI-T3-AFB_10-72h-R-1-1.CEL
+BPI-T3-BaP5-24h-R-1-1	HepaRG	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	BPI-T3-DMSO-24h	2.5	micromolar	DMSO	carcinogenomics_BPI-T3-BaP10-24h-R-1-1.CEL
+BPI-T3-BaP5-72h-R-1-1	HepaRG	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	BPI-T3-DMSO-72h	2.5	micromolar	DMSO	carcinogenomics_BPI-T3-BaP10-72h-R-1-1.CEL
+BPI-T3-BaP10-24h-R-1-1	HepaRG	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	BPI-T3-DMSO-24h	5	micromolar	DMSO	carcinogenomics_BPI-T3-BaP5-24h-R-1-1.CEL
+BPI-T3-BaP10-72h-R-1-1	HepaRG	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	BPI-T3-DMSO-72h	5	micromolar	DMSO	carcinogenomics_BPI-T3-BaP5-72h-R-1-1.CEL
+BPI-T3-CND 10-24h-R-1-1	HepaRG	clonidine	CHEMBL134	Non-carcinogen	FALSE	BPI-T3-DMSO-24h	0.1	micromolar	DMSO	carcinogenomics_BPI-T3-CND_10-24h-R-1-1.CEL
+BPI-T3-CND 10-72h-R-1-1	HepaRG	clonidine	CHEMBL134	Non-carcinogen	FALSE	BPI-T3-DMSO-72h	0.1	micromolar	DMSO	carcinogenomics_BPI-T3-CND_10-72h-R-1-1.CEL
+BPI-T3-CPM 10-24h-R-1-1	HepaRG	cyclophosphamide hydrate	CHEMBL1200796	Genotoxic	FALSE	BPI-T3-DMSO-24h	700	micromolar	DMSO	carcinogenomics_BPI-T3-CPM_10-24h-R-1-1.CEL
+BPI-T3-CPM 10-72h-R-1-1	HepaRG	cyclophosphamide hydrate	CHEMBL1200796	Genotoxic	FALSE	BPI-T3-DMSO-72h	700	micromolar	DMSO	carcinogenomics_BPI-T3-CPM_10-72h-R-1-1.CEL
+BPI-T3-DIC5-24h-R-1-1	HepaRG	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	BPI-T3-Media-24h	25	micromolar	Medium	carcinogenomics_BPI-T3-DIC10-24h-R-1-1.CEL
+BPI-T3-DIC5-72h-R-1-1	HepaRG	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	BPI-T3-Media-48h	25	micromolar	Medium	carcinogenomics_BPI-T3-DIC10-72h-R-1-1.CEL
+BPI-T3-DIC10-24h-R-1-1	HepaRG	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	BPI-T3-Media-24h	50	micromolar	Medium	carcinogenomics_BPI-T3-DIC5-24h-R-1-1.CEL
+BPI-T3-DIC10-72h-R-1-1	HepaRG	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	BPI-T3-Media-48h	50	micromolar	Medium	carcinogenomics_BPI-T3-DIC5-72h-R-1-1.CEL
+BPI-T3-DMN5-24h-R-1-1	HepaRG	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	BPI-T3-DMSO-24h	100	micromolar	DMSO	carcinogenomics_BPI-T3-DMN10-24h-R-1-1.CEL
+BPI-T3-DMN5-72h-R-1-1	HepaRG	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	BPI-T3-DMSO-72h	100	micromolar	DMSO	carcinogenomics_BPI-T3-DMN10-72h-R-1-1.CEL
+BPI-T3-DMN10-24h-R-1-1	HepaRG	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	BPI-T3-DMSO-24h	200	micromolar	DMSO	carcinogenomics_BPI-T3-DMN5-24h-R-1-1.CEL
+BPI-T3-DMN10-72h-R-1-1	HepaRG	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	BPI-T3-DMSO-72h	200	micromolar	DMSO	carcinogenomics_BPI-T3-DMN5-72h-R-1-1.CEL
+BPI-T3-DMO5-24h-R-1-1	HepaRG	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	BPI-T3-Media-24h	187.5	micromolar	Medium	carcinogenomics_BPI-T3-DMO10-24h-R-1-1.CEL
+BPI-T3-DMO5-72h-R-1-1	HepaRG	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	BPI-T3-Media-48h	187.5	micromolar	Medium	carcinogenomics_BPI-T3-DMO10-72h-R-1-1.CEL
+BPI-T3-DMO10-24h-R-1-1	HepaRG	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	BPI-T3-Media-24h	375	micromolar	Medium	carcinogenomics_BPI-T3-DMO5-24h-R-1-1.CEL
+BPI-T3-DMO10-72h-R-1-1	HepaRG	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	BPI-T3-Media-48h	375	micromolar	Medium	carcinogenomics_BPI-T3-DMO5-72h-R-1-1.CEL
+BPI-T3-DMSO-24h-R-1-1	HepaRG	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_BPI-T3-DMSO-24h-R-1-1.CEL
+BPI-T3-DMSO-24h-R-2-1	HepaRG	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_BPI-T3-DMSO-24h-R-2-1.CEL
+BPI-T3-DMSO-24h-R-2-2	HepaRG	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_BPI-T3-DMSO-24h-R-2-2.CEL
+BPI-T3-DMSO-72h-R-1-1	HepaRG	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_BPI-T3-DMSO-72h-R-1-1.CEL
+BPI-T3-DMSO-72h-R-2-1	HepaRG	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_BPI-T3-DMSO-72h-R-2-1.CEL
+BPI-T3-DMSO-72h-R-2-2	HepaRG	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_BPI-T3-DMSO-72h-R-2-2.CEL
+BPI-T3-Media-24h-R-1-1	HepaRG	untreated		CTRL	TRUE				Medium	carcinogenomics_BPI-T3-Media-24h-R-1-1.CEL
+BPI-T3-Media-72h-R-1-1	HepaRG	untreated		CTRL	TRUE				Medium	carcinogenomics_BPI-T3-Media-72h-R-1-1.CEL
+BPI-T3-MPH5-24h-R-1-1	HepaRG	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	BPI-T3-DMSO-24h	37.5	micromolar	DMSO	carcinogenomics_BPI-T3-MPH10-24h-R-1-1.CEL
+BPI-T3-MPH5-72h-R-1-1	HepaRG	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	BPI-T3-DMSO-72h	37.5	micromolar	DMSO	carcinogenomics_BPI-T3-MPH10-72h-R-1-1.CEL
+BPI-T3-MPH10-24h-R-1-1	HepaRG	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	BPI-T3-DMSO-24h	75	micromolar	DMSO	carcinogenomics_BPI-T3-MPH5-24h-R-1-1.CEL
+BPI-T3-MPH10-72h-R-1-1	HepaRG	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	BPI-T3-DMSO-72h	75	micromolar	DMSO	carcinogenomics_BPI-T3-MPH5-72h-R-1-1.CEL
+BPI-T3-NFE5-24h-R-1-1	HepaRG	nifedipine	CHEMBL193	Non-carcinogen	FALSE	BPI-T3-DMSO-24h	20	micromolar	DMSO	carcinogenomics_BPI-T3-NFE10-24h-R-1-1.CEL
+BPI-T3-NFE5-72h-R-1-1	HepaRG	nifedipine	CHEMBL193	Non-carcinogen	FALSE	BPI-T3-DMSO-72h	20	micromolar	DMSO	carcinogenomics_BPI-T3-NFE10-72h-R-1-1.CEL
+BPI-T3-NFE10-24h-R-1-1	HepaRG	nifedipine	CHEMBL193	Non-carcinogen	FALSE	BPI-T3-DMSO-24h	40	micromolar	DMSO	carcinogenomics_BPI-T3-NFE5-24h-R-1-1.CEL
+BPI-T3-NFE10-72h-R-1-1	HepaRG	nifedipine	CHEMBL193	Non-carcinogen	FALSE	BPI-T3-DMSO-72h	40	micromolar	DMSO	carcinogenomics_BPI-T3-NFE5-72h-R-1-1.CEL
+BPI-T3-PPX5-24h-R-1-1	HepaRG	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	BPI-T3-DMSO-24h	1.6	micromolar	DMSO	carcinogenomics_BPI-T3-PPX10-24h-R-1-1.CEL
+BPI-T3-PPX5-72h-R-1-1	HepaRG	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	BPI-T3-DMSO-72h	1.6	micromolar	DMSO	carcinogenomics_BPI-T3-PPX10-72h-R-1-1.CEL
+BPI-T3-PPX10-24h-R-1-1	HepaRG	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	BPI-T3-DMSO-24h	3.2	micromolar	DMSO	carcinogenomics_BPI-T3-PPX5-24h-R-1-1.CEL
+BPI-T3-PPX10-72h-R-1-1	HepaRG	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	BPI-T3-DMSO-72h	3.2	micromolar	DMSO	carcinogenomics_BPI-T3-PPX5-72h-R-1-1.CEL
+BPI-T3-PRN 10-24h-R-1-1	HepaRG	pirinixic acid	CHEMBL295416	Non-genotoxic	FALSE	BPI-T3-DMSO-24h	210	micromolar	DMSO	carcinogenomics_BPI-T3-PRN_10-24h-R-1-1.CEL
+BPI-T3-PRN 10-72h-R-1-1	HepaRG	pirinixic acid	CHEMBL295416	Non-genotoxic	FALSE	BPI-T3-DMSO-72h	210	micromolar	DMSO	carcinogenomics_BPI-T3-PRN_10-72h-R-1-1.CEL
+BPI-T3-SPB5-24h-R-1-1	HepaRG	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	BPI-T3-DMSO-24h	50	micromolar	DMSO	carcinogenomics_BPI-T3-SPB10-24h-R-1-1.CEL
+BPI-T3-SPB5-72h-R-1-1	HepaRG	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	BPI-T3-DMSO-72h	50	micromolar	DMSO	carcinogenomics_BPI-T3-SPB10-72h-R-1-1.CEL
+BPI-T3-SPB10-24h-R-1-1	HepaRG	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	BPI-T3-DMSO-24h	25	micromolar	DMSO	carcinogenomics_BPI-T3-SPB5-24h-R-1-1.CEL
+BPI-T3-SPB10-72h-R-1-1	HepaRG	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	BPI-T3-DMSO-72h	25	micromolar	DMSO	carcinogenomics_BPI-T3-SPB5-72h-R-1-1.CEL
+BPI-T3-TBT 10-24h-R-1-1	HepaRG	tolbutamide	CHEMBL782	Non-carcinogen	FALSE	BPI-T3-DMSO-24h	2000	micromolar	DMSO	carcinogenomics_BPI-T3-TBT_10-24h-R-1-1.CEL
+BPI-T3-TBT 10-72h-R-1-1	HepaRG	tolbutamide	CHEMBL782	Non-carcinogen	FALSE	BPI-T3-DMSO-72h	2000	micromolar	DMSO	carcinogenomics_BPI-T3-TBT_10-72h-R-1-1.CEL
+BPI-T3-TPA 10-24h-R-1-1	HepaRG	phorbol 13-acetate 12-myristate	CHEMBL279115	Non-genotoxic	FALSE	BPI-T3-DMSO-24h	35	micromolar	DMSO	carcinogenomics_BPI-T3-TPA_10-24h-R-1-1.CEL
+BPI-T3-TPA 10-72h-R-1-1	HepaRG	phorbol 13-acetate 12-myristate	CHEMBL279115	Non-genotoxic	FALSE	BPI-T3-DMSO-72h	35	micromolar	DMSO	carcinogenomics_BPI-T3-TPA_10-72h-R-1-1.CEL
+BPI-T4-2NF5-24h-R-1-1	HepaRG	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	BPI-T4-DMSO-24h	9	micromolar	DMSO	carcinogenomics_BPI-T4-2NF10-24h-R-1-1.CEL
+BPI-T4-2NF5-72h-R-1-1	HepaRG	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	BPI-T4-DMSO-72h	9	micromolar	DMSO	carcinogenomics_BPI-T4-2NF10-72h-R-1-1.CEL
+BPI-T4-2NF10-24h-R-1-1	HepaRG	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	BPI-T4-DMSO-24h	18	micromolar	DMSO	carcinogenomics_BPI-T4-2NF5-24h-R-1-1.CEL
+BPI-T4-2NF10-72h-R-1-1	HepaRG	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	BPI-T4-DMSO-72h	18	micromolar	DMSO	carcinogenomics_BPI-T4-2NF5-72h-R-1-1.CEL
+BPI-T4-BaP5-24h-R-1-1	HepaRG	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	BPI-T4-DMSO-24h	2.5	micromolar	DMSO	carcinogenomics_BPI-T4-BaP10-24h-R-1-1.CEL
+BPI-T4-BaP5-72h-R-1-1	HepaRG	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	BPI-T4-DMSO-72h	2.5	micromolar	DMSO	carcinogenomics_BPI-T4-BaP10-72h-R-1-1.CEL
+BPI-T4-BaP10-24h-R-1-1	HepaRG	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	BPI-T4-DMSO-24h	5	micromolar	DMSO	carcinogenomics_BPI-T4-BaP5-24h-R-1-1.CEL
+BPI-T4-BaP10-72h-R-1-1	HepaRG	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	BPI-T4-DMSO-72h	5	micromolar	DMSO	carcinogenomics_BPI-T4-BaP5-72h-R-1-1.CEL
+BPI-T4-DIC5-24h-R-1-1	HepaRG	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	BPI-T4-Media-24h	25	micromolar	Medium	carcinogenomics_BPI-T4-DIC10-24h-R-1-1.CEL
+BPI-T4-DIC5-72h-R-1-1	HepaRG	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	BPI-T4-Media-48h	25	micromolar	Medium	carcinogenomics_BPI-T4-DIC10-72h-R-1-1.CEL
+BPI-T4-DIC10-24h-R-1-1	HepaRG	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	BPI-T4-Media-24h	50	micromolar	Medium	carcinogenomics_BPI-T4-DIC5-24h-R-1-1.CEL
+BPI-T4-DIC10-72h-R-1-1	HepaRG	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	BPI-T4-Media-48h	50	micromolar	Medium	carcinogenomics_BPI-T4-DIC5-72h-R-1-1.CEL
+BPI-T4-DMN5-24h-R-1-1	HepaRG	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	BPI-T4-DMSO-24h	100	micromolar	DMSO	carcinogenomics_BPI-T4-DMN10-24h-R-1-1.CEL
+BPI-T4-DMN5-72h-R-1-1	HepaRG	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	BPI-T4-DMSO-72h	100	micromolar	DMSO	carcinogenomics_BPI-T4-DMN10-72h-R-1-1.CEL
+BPI-T4-DMN10-24h-R-1-1	HepaRG	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	BPI-T4-DMSO-24h	200	micromolar	DMSO	carcinogenomics_BPI-T4-DMN5-24h-R-1-1.CEL
+BPI-T4-DMN10-72h-R-1-1	HepaRG	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	BPI-T4-DMSO-72h	200	micromolar	DMSO	carcinogenomics_BPI-T4-DMN5-72h-R-1-1.CEL
+BPI-T4-DMO5-24h-R-1-1	HepaRG	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	BPI-T4-Media-24h	187.5	micromolar	Medium	carcinogenomics_BPI-T4-DMO10-24h-R-1-1.CEL
+BPI-T4-DMO5-72h-R-1-1	HepaRG	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	BPI-T4-Media-48h	187.5	micromolar	Medium	carcinogenomics_BPI-T4-DMO10-72h-R-1-1.CEL
+BPI-T4-DMO10-24h-R-1-1	HepaRG	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	BPI-T4-Media-24h	375	micromolar	Medium	carcinogenomics_BPI-T4-DMO5-24h-R-1-1.CEL
+BPI-T4-DMO10-72h-R-1-1	HepaRG	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	BPI-T4-Media-48h	375	micromolar	Medium	carcinogenomics_BPI-T4-DMO5-72h-R-1-1.CEL
+BPI-T4-DMSO-24h-R-1-1	HepaRG	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_BPI-T4-DMSO-24h-R-1-1.CEL
+BPI-T4-DMSO-72h-R-1-1	HepaRG	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_BPI-T4-DMSO-72h-R-1-1.CEL
+BPI-T4-Media-24h-R-1-1	HepaRG	untreated		CTRL	TRUE				Medium	carcinogenomics_BPI-T4-Media-24h-R-1-1.CEL
+BPI-T4-Media-72h-R-1-1	HepaRG	untreated		CTRL	TRUE				Medium	carcinogenomics_BPI-T4-Media-72h-R-1-1.CEL
+BPI-T4-MPH5-24h-R-1-1	HepaRG	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	BPI-T4-DMSO-24h-R-1-1	37.5	micromolar	DMSO	carcinogenomics_BPI-T4-MPH10-24h-R-1-1.CEL
+BPI-T4-MPH5-72h-R-1-1	HepaRG	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	BPI-T4-DMSO-72h-R-1-1	37.5	micromolar	DMSO	carcinogenomics_BPI-T4-MPH10-72h-R-1-1.CEL
+BPI-T4-MPH10-24h-R-1-1	HepaRG	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	BPI-T4-DMSO-24h-R-1-1	75	micromolar	DMSO	carcinogenomics_BPI-T4-MPH5-24h-R-1-1.CEL
+BPI-T4-MPH10-72h-R-1-1	HepaRG	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	BPI-T4-DMSO-72h-R-1-1	75	micromolar	DMSO	carcinogenomics_BPI-T4-MPH5-72h-R-1-1.CEL
+BPI-T4-NFE5-24h-R-1-1	HepaRG	nifedipine	CHEMBL193	Non-carcinogen	FALSE	BPI-T4-DMSO-24h-R-1-1	20	micromolar	DMSO	carcinogenomics_BPI-T4-NFE10-24h-R-1-1.CEL
+BPI-T4-NFE5-72h-R-1-1	HepaRG	nifedipine	CHEMBL193	Non-carcinogen	FALSE	BPI-T4-DMSO-72h-R-1-1	20	micromolar	DMSO	carcinogenomics_BPI-T4-NFE10-72h-R-1-1.CEL
+BPI-T4-NFE10-24h-R-1-1	HepaRG	nifedipine	CHEMBL193	Non-carcinogen	FALSE	BPI-T4-DMSO-24h-R-1-1	40	micromolar	DMSO	carcinogenomics_BPI-T4-NFE5-24h-R-1-1.CEL
+BPI-T4-NFE10-72h-R-1-1	HepaRG	nifedipine	CHEMBL193	Non-carcinogen	FALSE	BPI-T4-DMSO-72h-R-1-1	40	micromolar	DMSO	carcinogenomics_BPI-T4-NFE5-72h-R-1-1.CEL
+BPI-T4-PPX5-24h-R-1-1	HepaRG	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	BPI-T4-DMSO-24h-R-1-1	1.6	micromolar	DMSO	carcinogenomics_BPI-T4-PPX10-24h-R-1-1.CEL
+BPI-T4-PPX5-72h-R-1-1	HepaRG	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	BPI-T4-DMSO-72h-R-1-1	1.6	micromolar	DMSO	carcinogenomics_BPI-T4-PPX10-72h-R-1-1.CEL
+BPI-T4-PPX10-24h-R-1-1	HepaRG	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	BPI-T4-DMSO-24h-R-1-1	3.2	micromolar	DMSO	carcinogenomics_BPI-T4-PPX5-24h-R-1-1.CEL
+BPI-T4-PPX10-72h-R-1-1	HepaRG	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	BPI-T4-DMSO-72h-R-1-1	3.2	micromolar	DMSO	carcinogenomics_BPI-T4-PPX5-72h-R-1-1.CEL
+BPI-T4-SPB5-24h-R-1-1	HepaRG	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	BPI-T4-DMSO-24h-R-1-1	25	micromolar	DMSO	carcinogenomics_BPI-T4-SPB10-24h-R-1-1.CEL
+BPI-T4-SPB5-72h-R-1-1	HepaRG	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	BPI-T4-DMSO-72h-R-1-1	25	micromolar	DMSO	carcinogenomics_BPI-T4-SPB10-72h-R-1-1.CEL
+BPI-T4-SPB10-24h-R-1-1	HepaRG	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	BPI-T4-DMSO-24h-R-1-1	50	micromolar	DMSO	carcinogenomics_BPI-T4-SPB5-24h-R-1-1.CEL
+BPI-T4-SPB10-72h-R-1-1	HepaRG	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	BPI-T4-DMSO-72h-R-1-1	50	micromolar	DMSO	carcinogenomics_BPI-T4-SPB5-72h-R-1-1.CEL
+BPI-T5-Media-24h-R-1-1	HepaRG	untreated		CTRL	TRUE				Medium	carcinogenomics_BPI-T5-Media-24h-R-1-1.CEL
+BPI-T5-Media-72h-R-1-1	HepaRG	untreated		CTRL	TRUE				Medium	carcinogenomics_BPI-T5-Media-72h-R-1-1.CEL
+BPI-T5-NNK5-24h-R-1-1	HepaRG	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	BPI-T5-Media-24h-R-1-1	3750	micromolar	DMSO	carcinogenomics_BPI-T5-NNK10-24h-R-1-1.CEL
+BPI-T5-NNK5-72h-R-1-1	HepaRG	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	BPI-T5-Media-72h-R-1-1	3750	micromolar	DMSO	carcinogenomics_BPI-T5-NNK10-72h-R-1-1.CEL
+BPI-T5-NNK10-24h-R-1-1	HepaRG	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	BPI-T5-Media-24h-R-1-1	7500	micromolar	DMSO	carcinogenomics_BPI-T5-NNK5-24h-R-1-1.CEL
+BPI-T5-NNK10-72h-R-1-1	HepaRG	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	BPI-T5-Media-72h-R-1-1	7500	micromolar	DMSO	carcinogenomics_BPI-T5-NNK5-72h-R-1-1.CEL
+BPI-T6-Media-24h-R-1-1	HepaRG	untreated		CTRL	TRUE				Medium	carcinogenomics_BPI-T6-Media-24h-R-1-1.CEL
+BPI-T6-Media-72h-R-1-1	HepaRG	untreated		CTRL	TRUE				Medium	carcinogenomics_BPI-T6-Media-72h-R-1-1.CEL
+BPI-T6-NNK5-24h-R-1-1	HepaRG	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	BPI-T6-Media-24h-R-1-1	3750	micromolar	DMSO	carcinogenomics_BPI-T6-NNK10-24h-R-1-1.CEL
+BPI-T6-NNK5-72h-R-1-1	HepaRG	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	BPI-T6-Media-72h-R-1-1	3750	micromolar	DMSO	carcinogenomics_BPI-T6-NNK10-72h-R-1-1.CEL
+BPI-T6-NNK10-24h-R-1-1	HepaRG	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	BPI-T6-Media-24h-R-1-1	7500	micromolar	DMSO	carcinogenomics_BPI-T6-NNK5-24h-R-1-1.CEL
+BPI-T6-NNK10-72h-R-1-1	HepaRG	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	BPI-T6-Media-72h-R-1-1	7500	micromolar	DMSO	carcinogenomics_BPI-T6-NNK5-72h-R-1-1.CEL
+BPI-T7-Media-24h-R-1-1	HepaRG	untreated		CTRL	TRUE			micromolar	Medium	carcinogenomics_BPI-T7-Media-24h-R-1-1.CEL
+BPI-T7-Media-72h-R-1-1	HepaRG	untreated		CTRL	TRUE			micromolar	Medium	carcinogenomics_BPI-T7-Media-72h-R-1-1.CEL
+BPI-T7-NNK5-24h-R-1-1	HepaRG	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	BPI-T7-Media-24h-R-1-1	3750	micromolar	DMSO	carcinogenomics_BPI-T7-NNK10-24h-R-1-1.CEL
+BPI-T7-NNK5-72h-R-1-1	HepaRG	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	BPI-T7-Media-72h-R-1-1	3750	micromolar	DMSO	carcinogenomics_BPI-T7-NNK10-72h-R-1-1.CEL
+BPI-T7-NNK10-24h-R-1-1	HepaRG	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	BPI-T7-Media-24h-R-1-1	7500	micromolar	DMSO	carcinogenomics_BPI-T7-NNK5-24h-R-1-1.CEL
+BPI-T7-NNK10-72h-R-1-1	HepaRG	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	BPI-T7-Media-72h-R-1-1	7500	micromolar	DMSO	carcinogenomics_BPI-T7-NNK5-72h-R-1-1.CEL
+CEL-007-AFL1-24-R-1-2	hESC_DE-Hep	aflatoxin B1	CHEMBL1697694	Genotoxic	FALSE	CEL-007-DMSO-24-R	2	micromolar	DMSO	carcinogenomics_CEL-007-AFL1-24-R-1-2.CEL
+CEL-007-AFL1-72-R-1-2	hESC_DE-Hep	aflatoxin B1	CHEMBL1697694	Genotoxic	FALSE	CEL-007-DMSO-72-R	2	micromolar	DMSO	carcinogenomics_CEL-007-AFL1-72-R-1-2.CEL
+CEL-007-CLO1-24-R-1-2	hESC_DE-Hep	clonidine	CHEMBL134	Non-carcinogen	FALSE	CEL-007-DMSO-24-R	1.615	millimolar	DMSO	carcinogenomics_CEL-007-CLO1-24-R-1-2.CEL
+CEL-007-CLO1-72-R-1-2	hESC_DE-Hep	clonidine	CHEMBL134	Non-carcinogen	FALSE	CEL-007-DMSO-72-R	1.615	millimolar	DMSO	carcinogenomics_CEL-007-CLO1-72-R-1-2.CEL
+CEL-007-CYC1-24-R-1-2	hESC_DE-Hep	cyclophosphamide hydrate	CHEMBL1200796	Genotoxic	FALSE	CEL-007-DMSO-24-R	8.155	millimolar	DMSO	carcinogenomics_CEL-007-CYC1-24-R-1-2.CEL
+CEL-007-CYC1-72-R-1-2	hESC_DE-Hep	cyclophosphamide hydrate	CHEMBL1200796	Genotoxic	FALSE	CEL-007-DMSO-72-R	8.155	millimolar	DMSO	carcinogenomics_CEL-007-CYC1-72-R-1-2.CEL
+CEL-007-DMSO-24-R-1-2	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-007-DMSO-24-R-1-2.CEL
+CEL-007-DMSO-24-R-2-2	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-007-DMSO-24-R-2-2.CEL
+CEL-007-DMSO-72-R-1-2	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-007-DMSO-72-R-1-2.CEL
+CEL-007-DMSO-72-R-2-2	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0	millimolar	DMSO	carcinogenomics_CEL-007-DMSO-72-R-2-2.CEL
+CEL-007-TOL1-24-R-1-2	hESC_DE-Hep	tolbutamide	CHEMBL782	Non-carcinogen	FALSE	CEL-007-DMSO-24-R	5.485	millimolar	DMSO	carcinogenomics_CEL-007-TOL1-24-R-1-2.CEL
+CEL-007-TOL1-72-R-1-2	hESC_DE-Hep	tolbutamide	CHEMBL782	Non-carcinogen	FALSE	CEL-007-DMSO-72-R	5.485	millimolar	DMSO	carcinogenomics_CEL-007-TOL1-72-R-1-2.CEL
+CEL-007-TPA1-24-R-1-2	hESC_DE-Hep	phorbol 13-acetate 12-myristate	CHEMBL279115	Non-genotoxic	FALSE	CEL-007-DMSO-24-R	0.1	micromolar	DMSO	carcinogenomics_CEL-007-TPA1-24-R-1-2.CEL
+CEL-007-TPA1-72-R-1-2	hESC_DE-Hep	phorbol 13-acetate 12-myristate	CHEMBL279115	Non-genotoxic	FALSE	CEL-007-DMSO-72-R	0.1	micromolar	DMSO	carcinogenomics_CEL-007-TPA1-72-R-1-2.CEL
+CEL-007-WYE1-24-R-1-2	hESC_DE-Hep	pirinixic acid	CHEMBL295416	Non-genotoxic	FALSE	CEL-007-DMSO-24-R	0.406	millimolar	DMSO	carcinogenomics_CEL-007-WYE1-24-R-1-2.CEL
+CEL-007-WYE1-72-R-1-2	hESC_DE-Hep	pirinixic acid	CHEMBL295416	Non-genotoxic	FALSE	CEL-007-DMSO-72-R	0.406	millimolar	DMSO	carcinogenomics_CEL-007-WYE1-72-R-1-2.CEL
+CEL-009-AFL1-24-R-1-2	hESC_DE-Hep	aflatoxin B1	CHEMBL1697694	Genotoxic	FALSE	CEL-009-DMSO-24-R	2	micromolar	DMSO	carcinogenomics_CEL-009-AFL1-24-R-1-2.CEL
+CEL-009-AFL1-72-R-1-2	hESC_DE-Hep	aflatoxin B1	CHEMBL1697694	Genotoxic	FALSE	CEL-009-DMSO-72-R	2	micromolar	DMSO	carcinogenomics_CEL-009-AFL1-72-R-1-2.CEL
+CEL-009-CLO1-24-R-1-2	hESC_DE-Hep	clonidine	CHEMBL134	Non-carcinogen	FALSE	CEL-009-DMSO-24-R	1.615	millimolar	DMSO	carcinogenomics_CEL-009-CLO1-24-R-1-2.CEL
+CEL-009-CLO1-72-R-1-2	hESC_DE-Hep	clonidine	CHEMBL134	Non-carcinogen	FALSE	CEL-009-DMSO-72-R	1.615	millimolar	DMSO	carcinogenomics_CEL-009-CLO1-72-R-1-2.CEL
+CEL-009-CYC1-24-R-1-2	hESC_DE-Hep	cyclophosphamide hydrate	CHEMBL1200796	Genotoxic	FALSE	CEL-009-DMSO-24-R	8.155	millimolar	DMSO	carcinogenomics_CEL-009-CYC1-24-R-1-2.CEL
+CEL-009-CYC1-72-R-1-2	hESC_DE-Hep	cyclophosphamide hydrate	CHEMBL1200796	Genotoxic	FALSE	CEL-009-DMSO-72-R	8.155	millimolar	DMSO	carcinogenomics_CEL-009-CYC1-72-R-1-2.CEL
+CEL-009-DMSO-24-R-1-2	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-009-DMSO-24-R-1-2.CEL
+CEL-009-DMSO-24-R-2-2	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-009-DMSO-24-R-2-2.CEL
+CEL-009-DMSO-72-R-1-2	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-009-DMSO-72-R-1-2.CEL
+CEL-009-DMSO-72-R-2-2	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-009-DMSO-72-R-2-2.CEL
+CEL-009-TOL1-24-R-1-2	hESC_DE-Hep	tolbutamide	CHEMBL782	Non-carcinogen	FALSE	CEL-009-DMSO-24-R	5.485	millimolar	DMSO	carcinogenomics_CEL-009-TOL1-24-R-1-2.CEL
+CEL-009-TOL1-72-R-1-2	hESC_DE-Hep	tolbutamide	CHEMBL782	Non-carcinogen	FALSE	CEL-009-DMSO-72-R	5.485	millimolar	DMSO	carcinogenomics_CEL-009-TOL1-72-R-1-2.CEL
+CEL-009-TPA1-24-R-1-2	hESC_DE-Hep	phorbol 13-acetate 12-myristate	CHEMBL279115	Non-genotoxic	FALSE	CEL-009-DMSO-24-R	0.1	micromolar	DMSO	carcinogenomics_CEL-009-TPA1-24-R-1-2.CEL
+CEL-009-TPA1-72-R-1-2	hESC_DE-Hep	phorbol 13-acetate 12-myristate	CHEMBL279115	Non-genotoxic	FALSE	CEL-009-DMSO-72-R	0.1	micromolar	DMSO	carcinogenomics_CEL-009-TPA1-72-R-1-2.CEL
+CEL-009-WYE1-24-R-1-2	hESC_DE-Hep	pirinixic acid	CHEMBL295416	Non-genotoxic	FALSE	CEL-009-DMSO-24-R	0.406	millimolar	DMSO	carcinogenomics_CEL-009-WYE1-24-R-1-2.CEL
+CEL-009-WYE1-72-R-1-2	hESC_DE-Hep	pirinixic acid	CHEMBL295416	Non-genotoxic	FALSE	CEL-009-DMSO-72-R	0.406	millimolar	DMSO	carcinogenomics_CEL-009-WYE1-72-R-1-2.CEL
+CEL-010-AFL1-24-R-1-2	hESC_DE-Hep	aflatoxin B1	CHEMBL1697694	Genotoxic	FALSE	CEL-010-DMSO-24-R	2	micromolar	DMSO	carcinogenomics_CEL-010-AFL1-24-R-1-2.CEL
+CEL-010-AFL1-72-R-1-2	hESC_DE-Hep	aflatoxin B1	CHEMBL1697694	Genotoxic	FALSE	CEL-010-DMSO-72-R	2	micromolar	DMSO	carcinogenomics_CEL-010-AFL1-72-R-1-2.CEL
+CEL-010-CLO1-24-R-1-2	hESC_DE-Hep	clonidine	CHEMBL134	Non-carcinogen	FALSE	CEL-010-DMSO-24-R	1.615	millimolar	DMSO	carcinogenomics_CEL-010-CLO1-24-R-1-2.CEL
+CEL-010-CLO1-72-R-1-2	hESC_DE-Hep	clonidine	CHEMBL134	Non-carcinogen	FALSE	CEL-010-DMSO-72-R	1.615	millimolar	DMSO	carcinogenomics_CEL-010-CLO1-72-R-1-2.CEL
+CEL-010-CYC1-24-R-1-2	hESC_DE-Hep	cyclophosphamide hydrate	CHEMBL1200796	Genotoxic	FALSE	CEL-010-DMSO-24-R	8.155	millimolar	DMSO	carcinogenomics_CEL-010-CYC1-24-R-1-2.CEL
+CEL-010-CYC1-72-R-1-2	hESC_DE-Hep	cyclophosphamide hydrate	CHEMBL1200796	Genotoxic	FALSE	CEL-010-DMSO-72-R	8.155	millimolar	DMSO	carcinogenomics_CEL-010-CYC1-72-R-1-2.CEL
+CEL-010-DMSO-24-R-1-2	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-010-DMSO-24-R-1-2.CEL
+CEL-010-DMSO-24-R-2-2	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-010-DMSO-24-R-2-2.CEL
+CEL-010-DMSO-72-R-1-2	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-010-DMSO-72-R-1-2.CEL
+CEL-010-DMSO-72-R-2-2	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-010-DMSO-72-R-2-2.CEL
+CEL-010-TOL1-24-R-1-2	hESC_DE-Hep	tolbutamide	CHEMBL782	Non-carcinogen	FALSE	CEL-010-DMSO-24-R	5.485	millimolar	DMSO	carcinogenomics_CEL-010-TOL1-24-R-1-2.CEL
+CEL-010-TOL1-72-R-1-2	hESC_DE-Hep	tolbutamide	CHEMBL782	Non-carcinogen	FALSE	CEL-010-DMSO-72-R	5.485	millimolar	DMSO	carcinogenomics_CEL-010-TOL1-72-R-1-2.CEL
+CEL-010-TPA1-24-R-1-2	hESC_DE-Hep	phorbol 13-acetate 12-myristate	CHEMBL279115	Non-genotoxic	FALSE	CEL-010-DMSO-24-R	0.1	micromolar	DMSO	carcinogenomics_CEL-010-TPA1-24-R-1-2.CEL
+CEL-010-TPA1-72-R-1-2	hESC_DE-Hep	phorbol 13-acetate 12-myristate	CHEMBL279115	Non-genotoxic	FALSE	CEL-010-DMSO-72-R	0.1	micromolar	DMSO	carcinogenomics_CEL-010-TPA1-72-R-1-2.CEL
+CEL-010-WYE1-24-R-1-2	hESC_DE-Hep	pirinixic acid	CHEMBL295416	Non-genotoxic	FALSE	CEL-010-DMSO-24-R	0.406	millimolar	DMSO	carcinogenomics_CEL-010-WYE1-24-R-1-2.CEL
+CEL-010-WYE1-72-R-1-2	hESC_DE-Hep	pirinixic acid	CHEMBL295416	Non-genotoxic	FALSE	CEL-010-DMSO-72-R	0.406	millimolar	DMSO	carcinogenomics_CEL-010-WYE1-72-R-1-2.CEL
+CEL-B-2NF1-24-R-1-2	hESC_DE-Hep	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	CEL-B-DMO-24-R-1-2	32	micromolar	DMSO	carcinogenomics_CEL-B-2NF1-24-R-1-2.CEL
+CEL-B-2NF1-72-R-1-2	hESC_DE-Hep	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	CEL-B-DMO-72-R-1-2	32	micromolar	DMSO	carcinogenomics_CEL-B-2NF1-72-R-1-2.CEL
+CEL-B-2NF2-24-R-1-2	hESC_DE-Hep	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	CEL-B-DMO-24-R-1-2	16	micromolar	DMSO	carcinogenomics_CEL-B-2NF2-24-R-1-2.CEL
+CEL-B-2NF2-72-R-1-2	hESC_DE-Hep	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	CEL-B-DMO-72-R-1-2	16	micromolar	DMSO	carcinogenomics_CEL-B-2NF2-72-R-1-2.CEL
+CEL-B-BaP1-24-R-1-2	hESC_DE-Hep	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	CEL-B-DMO-24-R-1-2	100	micromolar	DMSO	carcinogenomics_CEL-B-BaP1-24-R-1-2.CEL
+CEL-B-BaP1-72-R-1-2	hESC_DE-Hep	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	CEL-B-DMO-72-R-1-2	100	micromolar	DMSO	carcinogenomics_CEL-B-BaP1-72-R-1-2.CEL
+CEL-B-BaP2-24-R-1-2	hESC_DE-Hep	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	CEL-B-DMO-24-R-1-2	50	micromolar	DMSO	carcinogenomics_CEL-B-BaP2-24-R-1-2.CEL
+CEL-B-BaP2-72-R-1-2	hESC_DE-Hep	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	CEL-B-DMO-72-R-1-2	50	micromolar	DMSO	carcinogenomics_CEL-B-BaP2-72-R-1-2.CEL
+CEL-B-DIC1-24-R-1-2	hESC_DE-Hep	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	CEL-B-MED-24-R-1-2	100	micromolar	DMSO	carcinogenomics_CEL-B-DIC1-24-R-1-2.CEL
+CEL-B-DIC1-72-R-1-2	hESC_DE-Hep	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	CEL-B-MED-72-R-1-2	100	micromolar	DMSO	carcinogenomics_CEL-B-DIC1-72-R-1-2.CEL
+CEL-B-DIC2-24-R-1-2	hESC_DE-Hep	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	CEL-B-MED-24-R-1-2	50	micromolar	DMSO	carcinogenomics_CEL-B-DIC2-24-R-1-2.CEL
+CEL-B-DIC2-72-R-1-2	hESC_DE-Hep	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	CEL-B-MED-72-R-1-2	50	micromolar	DMSO	carcinogenomics_CEL-B-DIC2-72-R-1-2.CEL
+CEL-B-DMO-24-R-1-2	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-B-DMO-24-R-1-2.CEL
+CEL-B-DMO-72-R-1-2	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-B-DMO-72-R-1-2.CEL
+CEL-B-DMT1-24-R-1-2	hESC_DE-Hep	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	CEL-B-MED-24-R-1-2	10000	micromolar	DMSO	carcinogenomics_CEL-B-DMT1-24-R-1-2.CEL
+CEL-B-DMT1-72-R-1-2	hESC_DE-Hep	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	CEL-B-MED-72-R-1-2	10000	micromolar	DMSO	carcinogenomics_CEL-B-DMT1-72-R-1-2.CEL
+CEL-B-DMT2-24-R-1-2	hESC_DE-Hep	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	CEL-B-MED-24-R-1-2	5000	micromolar	DMSO	carcinogenomics_CEL-B-DMT2-24-R-1-2.CEL
+CEL-B-DMT2-72-R-1-2	hESC_DE-Hep	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	CEL-B-MED-72-R-1-2	5000	micromolar	DMSO	carcinogenomics_CEL-B-DMT2-72-R-1-2.CEL
+CEL-B-MED-24-R-1-2	hESC_DE-Hep	untreated		CTRL	TRUE				Medium	carcinogenomics_CEL-B-MED-24-R-1-2.CEL
+CEL-B-MED-72-R-1-2	hESC_DE-Hep	untreated		CTRL	TRUE				Medium	carcinogenomics_CEL-B-MED-72-R-1-2.CEL
+CEL-B-MPH1-24-R-1-2	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-B-MED-24-R-1-2	330	micromolar	DMSO	carcinogenomics_CEL-B-MPH1-24-R-1-2.CEL
+CEL-B-MPH1-72-R-1-2	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-B-MED-72-R-1-2	330	micromolar	DMSO	carcinogenomics_CEL-B-MPH1-72-R-1-2.CEL
+CEL-B-MPH2-24-R-1-2	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-B-MED-24-R-1-2	165	micromolar	DMSO	carcinogenomics_CEL-B-MPH2-24-R-1-2.CEL
+CEL-B-MPH2-72-R-1-2	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-B-MED-72-R-1-2	165	micromolar	DMSO	carcinogenomics_CEL-B-MPH2-72-R-1-2.CEL
+CEL-B-NFE1-24-R-1-2	hESC_DE-Hep	nifedipine	CHEMBL193	Non-carcinogen	FALSE	CEL-B-DMO-24-R-1-2	180	micromolar	DMSO	carcinogenomics_CEL-B-NFE1-24-R-1-2.CEL
+CEL-B-NFE1-72-R-1-2	hESC_DE-Hep	nifedipine	CHEMBL193	Non-carcinogen	FALSE	CEL-B-DMO-72-R-1-2	180	micromolar	DMSO	carcinogenomics_CEL-B-NFE1-72-R-1-2.CEL
+CEL-B-NFE2-24-R-1-2	hESC_DE-Hep	nifedipine	CHEMBL193	Non-carcinogen	FALSE	CEL-B-DMO-24-R-1-2	90	micromolar	DMSO	carcinogenomics_CEL-B-NFE2-24-R-1-2.CEL
+CEL-B-NFE2-72-R-1-2	hESC_DE-Hep	nifedipine	CHEMBL193	Non-carcinogen	FALSE	CEL-B-DMO-72-R-1-2	90	micromolar	DMSO	carcinogenomics_CEL-B-NFE2-72-R-1-2.CEL
+CEL-B-NNK1-24-R-1-2	hESC_DE-Hep	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	CEL-B-DMO-24-R-1-2	7360	micromolar	DMSO	carcinogenomics_CEL-B-NNK1-24-R-1-2.CEL
+CEL-B-NNK1-72-R-1-2	hESC_DE-Hep	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	CEL-B-DMO-72-R-1-2	7360	micromolar	DMSO	carcinogenomics_CEL-B-NNK1-72-R-1-2.CEL
+CEL-B-NNK2-24-R-1-2	hESC_DE-Hep	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	CEL-B-DMO-24-R-1-2	3680	micromolar	DMSO	carcinogenomics_CEL-B-NNK2-24-R-1-2.CEL
+CEL-B-NNK2-72-R-1-2	hESC_DE-Hep	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	CEL-B-DMO-72-R-1-2	3680	micromolar	DMSO	carcinogenomics_CEL-B-NNK2-72-R-1-2.CEL
+CEL-B-PPX1-24-R-1-2	hESC_DE-Hep	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	CEL-B-DMO-24-R-1-2	11	micromolar	DMSO	carcinogenomics_CEL-B-PPX1-24-R-1-2.CEL
+CEL-B-PPX1-72-R-1-2	hESC_DE-Hep	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	CEL-B-DMO-72-R-1-2	11	micromolar	DMSO	carcinogenomics_CEL-B-PPX1-72-R-1-2.CEL
+CEL-B-PPX2-24-R-1-2	hESC_DE-Hep	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	CEL-B-DMO-24-R-1-2	5.5	micromolar	DMSO	carcinogenomics_CEL-B-PPX2-24-R-1-2.CEL
+CEL-B-PPX2-72-R-1-2	hESC_DE-Hep	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	CEL-B-DMO-72-R-1-2	5.5	micromolar	DMSO	carcinogenomics_CEL-B-PPX2-72-R-1-2.CEL
+CEL-B-SPB1-24-R-1-2	hESC_DE-Hep	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	CEL-B-MED-24-R-1-2	1780	micromolar	DMSO	carcinogenomics_CEL-B-SPB1-24-R-1-2.CEL
+CEL-B-SPB1-72-R-1-2	hESC_DE-Hep	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	CEL-B-MED-72-R-1-2	1780	micromolar	DMSO	carcinogenomics_CEL-B-SPB1-72-R-1-2.CEL
+CEL-B-SPB2-24-R-1-2	hESC_DE-Hep	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	CEL-B-MED-24-R-1-2	890	micromolar	DMSO	carcinogenomics_CEL-B-SPB2-24-R-1-2.CEL
+CEL-B-SPB2-72-R-1-2	hESC_DE-Hep	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	CEL-B-MED-72-R-1-2	890	micromolar	DMSO	carcinogenomics_CEL-B-SPB2-72-R-1-2.CEL
+CEL-C-2NF1-24-R-1-2	hESC_DE-Hep	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	CEL-C-DMO-24-R-1-2	32	micromolar	DMSO	carcinogenomics_CEL-C-2NF1-24-R-1-2.CEL
+CEL-C-2NF1-72-R-1-2	hESC_DE-Hep	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	CEL-C-DMO-72-R-1-2	32	micromolar	DMSO	carcinogenomics_CEL-C-2NF1-72-R-1-2.CEL
+CEL-C-2NF2-24-R-1-2	hESC_DE-Hep	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	CEL-C-DMO-24-R-1-2	16	micromolar	DMSO	carcinogenomics_CEL-C-2NF2-24-R-1-2.CEL
+CEL-C-2NF2-72-R-1-2	hESC_DE-Hep	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	CEL-C-DMO-72-R-1-2	16	micromolar	DMSO	carcinogenomics_CEL-C-2NF2-72-R-1-2.CEL
+CEL-C-BaP1-24-R-1-2	hESC_DE-Hep	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	CEL-C-DMO-24-R-1-2	100	micromolar	DMSO	carcinogenomics_CEL-C-BaP1-24-R-1-2.CEL
+CEL-C-BaP1-72-R-1-2	hESC_DE-Hep	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	CEL-C-DMO-72-R-1-2	100	micromolar	DMSO	carcinogenomics_CEL-C-BaP1-72-R-1-2.CEL
+CEL-C-BaP2-24-R-1-2	hESC_DE-Hep	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	CEL-C-DMO-24-R-1-2	50	micromolar	DMSO	carcinogenomics_CEL-C-BaP2-24-R-1-2.CEL
+CEL-C-BaP2-72-R-1-2	hESC_DE-Hep	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	CEL-C-DMO-72-R-1-2	50	micromolar	DMSO	carcinogenomics_CEL-C-BaP2-72-R-1-2.CEL
+CEL-C-DIC1-24-R-1-2	hESC_DE-Hep	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	CEL-C-MED-24-R-1-2	100	micromolar	DMSO	carcinogenomics_CEL-C-DIC1-24-R-1-2.CEL
+CEL-C-DIC1-72-R-1-2	hESC_DE-Hep	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	CEL-C-MED-72-R-1-2	100	micromolar	DMSO	carcinogenomics_CEL-C-DIC1-72-R-1-2.CEL
+CEL-C-DIC2-24-R-1-2	hESC_DE-Hep	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	CEL-C-MED-24-R-1-2	50	micromolar	DMSO	carcinogenomics_CEL-C-DIC2-24-R-1-2.CEL
+CEL-C-DIC2-72-R-1-2	hESC_DE-Hep	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	CEL-C-MED-72-R-1-2	50	micromolar	DMSO	carcinogenomics_CEL-C-DIC2-72-R-1-2.CEL
+CEL-C-DMO-24-R-1-2	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-C-DMO-24-R-1-2.CEL
+CEL-C-DMO-72-R-1-2	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-C-DMO-72-R-1-2.CEL
+CEL-C-DMT1-24-R-1-2	hESC_DE-Hep	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	CEL-C-MED-24-R-1-2	10000	micromolar	DMSO	carcinogenomics_CEL-C-DMT1-24-R-1-2.CEL
+CEL-C-DMT1-72-R-1-2	hESC_DE-Hep	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	CEL-C-MED-72-R-1-2	10000	micromolar	DMSO	carcinogenomics_CEL-C-DMT1-72-R-1-2.CEL
+CEL-C-DMT2-24-R-1-2	hESC_DE-Hep	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	CEL-C-MED-24-R-1-2	5000	micromolar	DMSO	carcinogenomics_CEL-C-DMT2-24-R-1-2.CEL
+CEL-C-DMT2-72-R-1-2	hESC_DE-Hep	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	CEL-C-MED-72-R-1-2	5000	micromolar	DMSO	carcinogenomics_CEL-C-DMT2-72-R-1-2.CEL
+CEL-C-MED-24-R-1-2	hESC_DE-Hep	untreated		CTRL	TRUE				Medium	carcinogenomics_CEL-C-MED-24-R-1-2.CEL
+CEL-C-MED-72-R-1-2	hESC_DE-Hep	untreated		CTRL	TRUE				Medium	carcinogenomics_CEL-C-MED-72-R-1-2.CEL
+CEL-C-MPH1-24-R-1-2	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-C-MED-24-R-1-2	330	micromolar	DMSO	carcinogenomics_CEL-C-MPH1-24-R-1-2.CEL
+CEL-C-MPH1-72-R-1-2	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-C-MED-72-R-1-2	330	micromolar	DMSO	carcinogenomics_CEL-C-MPH1-72-R-1-2.CEL
+CEL-C-MPH2-24-R-1-2	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-C-MED-24-R-1-2	165	micromolar	DMSO	carcinogenomics_CEL-C-MPH2-24-R-1-2.CEL
+CEL-C-MPH2-72-R-1-2	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-C-MED-72-R-1-2	165	micromolar	DMSO	carcinogenomics_CEL-C-MPH2-72-R-1-2.CEL
+CEL-C-NFE1-24-R-1-2	hESC_DE-Hep	nifedipine	CHEMBL193	Non-carcinogen	FALSE	CEL-C-DMO-24-R-1-2	180	micromolar	DMSO	carcinogenomics_CEL-C-NFE1-24-R-1-2.CEL
+CEL-C-NFE1-72-R-1-2	hESC_DE-Hep	nifedipine	CHEMBL193	Non-carcinogen	FALSE	CEL-C-DMO-72-R-1-2	180	micromolar	DMSO	carcinogenomics_CEL-C-NFE1-72-R-1-2.CEL
+CEL-C-NFE2-24-R-1-2	hESC_DE-Hep	nifedipine	CHEMBL193	Non-carcinogen	FALSE	CEL-C-DMO-24-R-1-2	90	micromolar	DMSO	carcinogenomics_CEL-C-NFE2-24-R-1-2.CEL
+CEL-C-NFE2-72-R-1-2	hESC_DE-Hep	nifedipine	CHEMBL193	Non-carcinogen	FALSE	CEL-C-DMO-72-R-1-2	90	micromolar	DMSO	carcinogenomics_CEL-C-NFE2-72-R-1-2.CEL
+CEL-C-NNK1-24-R-1-2	hESC_DE-Hep	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	CEL-C-DMO-24-R-1-2	7360	micromolar	DMSO	carcinogenomics_CEL-C-NNK1-24-R-1-2.CEL
+CEL-C-NNK1-72-R-1-2	hESC_DE-Hep	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	CEL-C-DMO-72-R-1-2	7360	micromolar	DMSO	carcinogenomics_CEL-C-NNK1-72-R-1-2.CEL
+CEL-C-NNK2-24-R-1-2	hESC_DE-Hep	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	CEL-C-DMO-24-R-1-2	3680	micromolar	DMSO	carcinogenomics_CEL-C-NNK2-24-R-1-2.CEL
+CEL-C-NNK2-72-R-1-2	hESC_DE-Hep	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	CEL-C-DMO-72-R-1-2	3680	micromolar	DMSO	carcinogenomics_CEL-C-NNK2-72-R-1-2.CEL
+CEL-C-PPX1-24-R-1-2	hESC_DE-Hep	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	CEL-C-DMO-24-R-1-2	11	micromolar	DMSO	carcinogenomics_CEL-C-PPX1-24-R-1-2.CEL
+CEL-C-PPX1-72-R-1-2	hESC_DE-Hep	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	CEL-C-DMO-72-R-1-2	11	micromolar	DMSO	carcinogenomics_CEL-C-PPX1-72-R-1-2.CEL
+CEL-C-PPX2-24-R-1-2	hESC_DE-Hep	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	CEL-C-DMO-24-R-1-2	5.5	micromolar	DMSO	carcinogenomics_CEL-C-PPX2-24-R-1-2.CEL
+CEL-C-PPX2-72-R-1-2	hESC_DE-Hep	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	CEL-C-DMO-72-R-1-2	5.5	micromolar	DMSO	carcinogenomics_CEL-C-PPX2-72-R-1-2.CEL
+CEL-C-SPB1-24-R-1-2	hESC_DE-Hep	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	CEL-C-MED-24-R-1-2	1780	micromolar	DMSO	carcinogenomics_CEL-C-SPB1-24-R-1-2.CEL
+CEL-C-SPB1-72-R-1-2	hESC_DE-Hep	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	CEL-C-MED-72-R-1-2	1780	micromolar	DMSO	carcinogenomics_CEL-C-SPB1-72-R-1-2.CEL
+CEL-C-SPB2-24-R-1-2	hESC_DE-Hep	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	CEL-C-MED-24-R-1-2	890	micromolar	DMSO	carcinogenomics_CEL-C-SPB2-24-R-1-2.CEL
+CEL-C-SPB2-72-R-1-2	hESC_DE-Hep	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	CEL-C-MED-72-R-1-2	890	micromolar	DMSO	carcinogenomics_CEL-C-SPB2-72-R-1-2.CEL
+CEL-D-2NF1-24-R-1-2	hESC_DE-Hep	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	CEL-D-DMO-24-R-1-2	32	micromolar	DMSO	carcinogenomics_CEL-D-2NF1-24-R-1-2.CEL
+CEL-D-2NF1-72-R-1-2	hESC_DE-Hep	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	CEL-D-DMO-72-R	32	micromolar	DMSO	carcinogenomics_CEL-D-2NF1-72-R-1-2.CEL
+CEL-D-2NF2-24-R-1-2	hESC_DE-Hep	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	CEL-D-DMO-24-R-1-2	16	micromolar	DMSO	carcinogenomics_CEL-D-2NF2-24-R-1-2.CEL
+CEL-D-2NF2-72-R-1-2	hESC_DE-Hep	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	CEL-D-DMO-72-R	16	micromolar	DMSO	carcinogenomics_CEL-D-2NF2-72-R-1-2.CEL
+CEL-D-BaP1-24-R-1-2	hESC_DE-Hep	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	CEL-D-DMO-24-R-1-2	100	micromolar	DMSO	carcinogenomics_CEL-D-BaP1-24-R-1-2.CEL
+CEL-D-BaP1-72-R-1-2	hESC_DE-Hep	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	CEL-D-DMO-72-R	100	micromolar	DMSO	carcinogenomics_CEL-D-BaP1-72-R-1-2.CEL
+CEL-D-BaP2-24-R-1-2	hESC_DE-Hep	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	CEL-D-DMO-24-R-1-2	50	micromolar	DMSO	carcinogenomics_CEL-D-BaP2-24-R-1-2.CEL
+CEL-D-BaP2-72-R-1-2	hESC_DE-Hep	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	CEL-D-DMO-72-R	50	micromolar	DMSO	carcinogenomics_CEL-D-BaP2-72-R-1-2.CEL
+CEL-D-DIC1-24-R-1-2	hESC_DE-Hep	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	CEL-D-MED-24-R-1-2	100	micromolar	DMSO	carcinogenomics_CEL-D-DIC1-24-R-1-2.CEL
+CEL-D-DIC1-72-R-1-2	hESC_DE-Hep	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	CEL-D-MED-72-R	100	micromolar	DMSO	carcinogenomics_CEL-D-DIC1-72-R-1-2.CEL
+CEL-D-DIC2-24-R-1-1R	hESC_DE-Hep	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	CEL-D-MED-24-R-1-2	50	micromolar	DMSO	carcinogenomics_CEL-D-DIC2-24-R-1-1R.CEL
+CEL-D-DIC2-24-R-1-2	hESC_DE-Hep	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	CEL-D-MED-24-R-1-2	50	micromolar	DMSO	carcinogenomics_CEL-D-DIC2-24-R-1-2.CEL
+CEL-D-DIC2-72-R-1-2	hESC_DE-Hep	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	CEL-D-MED-72-R	50	micromolar	DMSO	carcinogenomics_CEL-D-DIC2-72-R-1-2.CEL
+CEL-D-DMO-24-R-1-2	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-D-DMO-24-R-1-2.CEL
+CEL-D-DMO-72-R-1-1R	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-D-DMO-72-R-1-1R.CEL
+CEL-D-DMO-72-R-1-2	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-D-DMO-72-R-1-2.CEL
+CEL-D-DMT1-24-R-1-1R	hESC_DE-Hep	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	CEL-D-MED-24-R-1-2	10000	micromolar	DMSO	carcinogenomics_CEL-D-DMT1-24-R-1-1R.CEL
+CEL-D-DMT1-24-R-1-2	hESC_DE-Hep	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	CEL-D-MED-24-R-1-2	10000	micromolar	DMSO	carcinogenomics_CEL-D-DMT1-24-R-1-2.CEL
+CEL-D-DMT1-72-R-1-2	hESC_DE-Hep	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	CEL-D-MED-72-R	10000	micromolar	DMSO	carcinogenomics_CEL-D-DMT1-72-R-1-2.CEL
+CEL-D-DMT2-24-R-1-2	hESC_DE-Hep	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	CEL-D-MED-24-R-1-2	5000	micromolar	DMSO	carcinogenomics_CEL-D-DMT2-24-R-1-2.CEL
+CEL-D-DMT2-72-R-1-2	hESC_DE-Hep	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	CEL-D-MED-72-R	5000	micromolar	DMSO	carcinogenomics_CEL-D-DMT2-72-R-1-2.CEL
+CEL-D-MED-24-R-1-2	hESC_DE-Hep	untreated		CTRL	TRUE				Medium	carcinogenomics_CEL-D-MED-24-R-1-2.CEL
+CEL-D-MED-72-R-1-1R	hESC_DE-Hep	untreated		CTRL	TRUE				Medium	carcinogenomics_CEL-D-MED-72-R-1-1R.CEL
+CEL-D-MED-72-R-1-2	hESC_DE-Hep	untreated		CTRL	TRUE				Medium	carcinogenomics_CEL-D-MED-72-R-1-2.CEL
+CEL-D-MPH1-24-R-1-2	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-D-MED-24-R-1-2	330	micromolar	DMSO	carcinogenomics_CEL-D-MPH1-24-R-1-2.CEL
+CEL-D-MPH1-72-R-1-2	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-D-MED-72-R	330	micromolar	DMSO	carcinogenomics_CEL-D-MPH1-72-R-1-2.CEL
+CEL-D-MPH2-24-R-1-2	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-D-MED-24-R-1-2	165	micromolar	DMSO	carcinogenomics_CEL-D-MPH2-24-R-1-2.CEL
+CEL-D-MPH2-72-R-1-2	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-D-MED-72-R	165	micromolar	DMSO	carcinogenomics_CEL-D-MPH2-72-R-1-2.CEL
+CEL-D-NFE1-24-R-1-2	hESC_DE-Hep	nifedipine	CHEMBL193	Non-carcinogen	FALSE	CEL-D-DMO-24-R-1-2	180	micromolar	DMSO	carcinogenomics_CEL-D-NFE1-24-R-1-2.CEL
+CEL-D-NFE1-72-R-1-2	hESC_DE-Hep	nifedipine	CHEMBL193	Non-carcinogen	FALSE	CEL-D-DMO-72-R	180	micromolar	DMSO	carcinogenomics_CEL-D-NFE1-72-R-1-2.CEL
+CEL-D-NFE2-24-R-1-2	hESC_DE-Hep	nifedipine	CHEMBL193	Non-carcinogen	FALSE	CEL-D-DMO-24-R-1-2	90	micromolar	DMSO	carcinogenomics_CEL-D-NFE2-24-R-1-2.CEL
+CEL-D-NFE2-72-R-1-2	hESC_DE-Hep	nifedipine	CHEMBL193	Non-carcinogen	FALSE	CEL-D-DMO-72-R	90	micromolar	DMSO	carcinogenomics_CEL-D-NFE2-72-R-1-2.CEL
+CEL-D-NNK1-24-R-1-2	hESC_DE-Hep	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	CEL-D-DMO-24-R-1-2	7360	micromolar	DMSO	carcinogenomics_CEL-D-NNK1-24-R-1-2.CEL
+CEL-D-NNK1-72-R-1-2	hESC_DE-Hep	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	CEL-D-DMO-72-R	7360	micromolar	DMSO	carcinogenomics_CEL-D-NNK1-72-R-1-2.CEL
+CEL-D-NNK2-24-R-1-2	hESC_DE-Hep	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	CEL-D-DMO-24-R-1-2	3680	micromolar	DMSO	carcinogenomics_CEL-D-NNK2-24-R-1-2.CEL
+CEL-D-NNK2-72-R-1-2	hESC_DE-Hep	4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one		Genotoxic	FALSE	CEL-D-DMO-72-R	3680	micromolar	DMSO	carcinogenomics_CEL-D-NNK2-72-R-1-2.CEL
+CEL-D-PPX1-24-R-1-2	hESC_DE-Hep	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	CEL-D-DMO-24-R-1-2	11	micromolar	DMSO	carcinogenomics_CEL-D-PPX1-24-R-1-2.CEL
+CEL-D-PPX1-72-R-1-2	hESC_DE-Hep	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	CEL-D-DMO-72-R	11	micromolar	DMSO	carcinogenomics_CEL-D-PPX1-72-R-1-2.CEL
+CEL-D-PPX2-24-R-1-2	hESC_DE-Hep	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	CEL-D-DMO-24-R-1-2	5.5	micromolar	DMSO	carcinogenomics_CEL-D-PPX2-24-R-1-2.CEL
+CEL-D-PPX2-72-R-1-2	hESC_DE-Hep	piperonyl butoxide	CHEMBL1201131	Non-genotoxic	FALSE	CEL-D-DMO-72-R	5.5	micromolar	DMSO	carcinogenomics_CEL-D-PPX2-72-R-1-2.CEL
+CEL-D-SPB1-24-R-1-2	hESC_DE-Hep	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	CEL-D-MED-24-R-1-2	1780	micromolar	DMSO	carcinogenomics_CEL-D-SPB1-24-R-1-2.CEL
+CEL-D-SPB1-72-R-1-2	hESC_DE-Hep	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	CEL-D-MED-72-R	1780	micromolar	DMSO	carcinogenomics_CEL-D-SPB1-72-R-1-2.CEL
+CEL-D-SPB2-24-R-1-2	hESC_DE-Hep	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	CEL-D-MED-24-R-1-2	890	micromolar	DMSO	carcinogenomics_CEL-D-SPB2-24-R-1-2.CEL
+CEL-D-SPB2-72-R-1-2	hESC_DE-Hep	phenobarbital sodium	CHEMBL149972	Non-genotoxic	FALSE	CEL-D-MED-72-R	890	micromolar	DMSO	carcinogenomics_CEL-D-SPB2-72-R-1-2.CEL
+CEL-J-DMO-24-R-1-1	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-J-DMO-24-R-1-1.CEL
+CEL-J-DMO-72-R-1-1	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-J-DMO-72-R-1-1.CEL
+CEL-J-MED-24-R-1-1	hESC_DE-Hep	untreated		CTRL	TRUE				medium	carcinogenomics_CEL-J-MED-24-R-1-1.CEL
+CEL-J-MED-72-R-1-1	hESC_DE-Hep	untreated		CTRL	TRUE				medium	carcinogenomics_CEL-J-MED-72-R-1-1.CEL
+CEL-J-MPH1-24-R-1-1	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-J-MED-24-R-1-1	0.33	micromolar	DMSO	carcinogenomics_CEL-J-MPH1-24-R-1-1.CEL
+CEL-J-MPH1-72-R-1-1	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-J-MED-72-R-1-1	0.33	micromolar	DMSO	carcinogenomics_CEL-J-MPH1-72-R-1-1.CEL
+CEL-J-MPH2-24-R-1-1	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-J-MED-24-R-1-1	0.165	micromolar	DMSO	carcinogenomics_CEL-J-MPH2-24-R-1-1.CEL
+CEL-J-MPH2-72-R-1-1	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-J-MED-72-R-1-1	0.165	micromolar	DMSO	carcinogenomics_CEL-J-MPH2-72-R-1-1.CEL
+CEL-K-DMO-24-R-1-1	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-K-DMO-24-R-1-1.CEL
+CEL-K-DMO-72-R-1-1	hESC_DE-Hep	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE		0.5	percent	DMSO	carcinogenomics_CEL-K-DMO-72-R-1-1.CEL
+CEL-K-MED-24-R-1-1	hESC_DE-Hep	untreated		CTRL	TRUE				medium	carcinogenomics_CEL-K-MED-24-R-1-1.CEL
+CEL-K-MED-72-R-1-1	hESC_DE-Hep	untreated		CTRL	TRUE				medium	carcinogenomics_CEL-K-MED-72-R-1-1.CEL
+CEL-K-MPH1-24-R-1-1	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-K-MED-24-R-1-1	0.33	micromolar	DMSO	carcinogenomics_CEL-K-MPH1-24-R-1-1.CEL
+CEL-K-MPH1-72-R-1-1	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-K-MED-72-R-1-1	0.33	micromolar	DMSO	carcinogenomics_CEL-K-MPH1-72-R-1-1.CEL
+CEL-K-MPH2-24-R-1-1	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-K-MED-24-R-1-1	0.165	micromolar	DMSO	carcinogenomics_CEL-K-MPH2-24-R-1-1.CEL
+CEL-K-MPH2-72-R-1-1	hESC_DE-Hep	methapyrilene hydrochloride	CHEMBL1255739	Non-genotoxic	FALSE	CEL-K-MED-72-R-1-1	0.165	micromolar	DMSO	carcinogenomics_CEL-K-MPH2-72-R-1-1.CEL
+HUL-H-2NF1-24-R-1-2	HepG2	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	HUL-H-DMO-24-R	35	micromolar	DMSO	carcinogenomics_HUL-H-2NF1-24-R-1-2.CEL
+HUL-H-2NF1-24-R-2-2	HepG2	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	HUL-H-DMO-24-R	35	micromolar	DMSO	carcinogenomics_HUL-H-2NF1-24-R-2-2.CEL
+HUL-H-2NF1-24-R-3-2	HepG2	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	HUL-H-DMO-24-R	35	micromolar	DMSO	carcinogenomics_HUL-H-2NF1-24-R-3-2.CEL
+HUL-H-2NF1-72-R-1-2	HepG2	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	HUL-H-DMO-72-R	35	micromolar	DMSO	carcinogenomics_HUL-H-2NF1-72-R-1-2.CEL
+HUL-H-2NF1-72-R-2-2	HepG2	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	HUL-H-DMO-72-R	35	micromolar	DMSO	carcinogenomics_HUL-H-2NF1-72-R-2-2.CEL
+HUL-H-2NF1-72-R-3-2	HepG2	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	HUL-H-DMO-72-R	35	micromolar	DMSO	carcinogenomics_HUL-H-2NF1-72-R-3-2.CEL
+HUL-H-2NF2-24-R-1-2	HepG2	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	HUL-H-DMO-24-R	17.5	micromolar	DMSO	carcinogenomics_HUL-H-2NF2-24-R-1-2.CEL
+HUL-H-2NF2-24-R-2-2	HepG2	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	HUL-H-DMO-24-R	17.5	micromolar	DMSO	carcinogenomics_HUL-H-2NF2-24-R-2-2.CEL
+HUL-H-2NF2-24-R-3-2	HepG2	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	HUL-H-DMO-24-R	17.5	micromolar	DMSO	carcinogenomics_HUL-H-2NF2-24-R-3-2.CEL
+HUL-H-2NF2-24-R-4-2	HepG2	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	HUL-H-DMO-24-R	17.5	micromolar	DMSO	carcinogenomics_HUL-H-2NF2-24-R-4-2.CEL
+HUL-H-2NF2-72-R-1-2	HepG2	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	HUL-H-DMO-72-R	17.5	micromolar	DMSO	carcinogenomics_HUL-H-2NF2-72-R-1-2.CEL
+HUL-H-2NF2-72-R-2-2	HepG2	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	HUL-H-DMO-72-R	17.5	micromolar	DMSO	carcinogenomics_HUL-H-2NF2-72-R-2-2.CEL
+HUL-H-2NF2-72-R-3-2	HepG2	2-nitrofluorene	CHEMBL351487	Genotoxic	FALSE	HUL-H-DMO-72-R	17.5	micromolar	DMSO	carcinogenomics_HUL-H-2NF2-72-R-3-2.CEL
+HUL-H-AFL1-24-R-1-1	HepG2	aflatoxin B1	CHEMBL1697694	Genotoxic	FALSE	HUL-H-DMO-24-R	1.6	micromolar	DMSO	carcinogenomics_HUL-H-AFL1-24-R-1-1.CEL
+HUL-H-AFL1-24-R-2-1	HepG2	aflatoxin B1	CHEMBL1697694	Genotoxic	FALSE	HUL-H-DMO-24-R	1.6	micromolar	DMSO	carcinogenomics_HUL-H-AFL1-24-R-2-1.CEL
+HUL-H-AFL1-24-R-3-1	HepG2	aflatoxin B1	CHEMBL1697694	Genotoxic	FALSE	HUL-H-DMO-24-R	1.6	micromolar	DMSO	carcinogenomics_HUL-H-AFL1-24-R-3-1.CEL
+HUL-H-AFL1-72-R-1-1	HepG2	aflatoxin B1	CHEMBL1697694	Genotoxic	FALSE	HUL-H-DMO-72-R	1.6	micromolar	DMSO	carcinogenomics_HUL-H-AFL1-72-R-1-1.CEL
+HUL-H-AFL1-72-R-2-1	HepG2	aflatoxin B1	CHEMBL1697694	Genotoxic	FALSE	HUL-H-DMO-72-R	1.6	micromolar	DMSO	carcinogenomics_HUL-H-AFL1-72-R-2-1.CEL
+HUL-H-AFL1-72-R-3-1	HepG2	aflatoxin B1	CHEMBL1697694	Genotoxic	FALSE	HUL-H-DMO-72-R	1.6	micromolar	DMSO	carcinogenomics_HUL-H-AFL1-72-R-3-1.CEL
+HUL-H-BaP1-24-R-1-2	HepG2	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	HUL-H-DMO-24-R	2	micromolar	DMSO	carcinogenomics_HUL-H-BaP1-24-R-1-2.CEL
+HUL-H-BaP1-24-R-2-2	HepG2	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	HUL-H-DMO-24-R	2	micromolar	DMSO	carcinogenomics_HUL-H-BaP1-24-R-2-2.CEL
+HUL-H-BaP1-24-R-3-2	HepG2	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	HUL-H-DMO-24-R	2	micromolar	DMSO	carcinogenomics_HUL-H-BaP1-24-R-3-2.CEL
+HUL-H-BaP1-72-R-1-2	HepG2	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	HUL-H-DMO-72-R	2	micromolar	DMSO	carcinogenomics_HUL-H-BaP1-72-R-1-2.CEL
+HUL-H-BaP1-72-R-2-2	HepG2	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	HUL-H-DMO-72-R	2	micromolar	DMSO	carcinogenomics_HUL-H-BaP1-72-R-2-2.CEL
+HUL-H-BaP1-72-R-3-2	HepG2	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	HUL-H-DMO-72-R	2	micromolar	DMSO	carcinogenomics_HUL-H-BaP1-72-R-3-2.CEL
+HUL-H-BaP2-24-R-1-2	HepG2	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	HUL-H-DMO-24-R	1	micromolar	DMSO	carcinogenomics_HUL-H-BaP2-24-R-1-2.CEL
+HUL-H-BaP2-24-R-2-2	HepG2	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	HUL-H-DMO-24-R	1	micromolar	DMSO	carcinogenomics_HUL-H-BaP2-24-R-2-2.CEL
+HUL-H-BaP2-24-R-3-2	HepG2	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	HUL-H-DMO-24-R	1	micromolar	DMSO	carcinogenomics_HUL-H-BaP2-24-R-3-2.CEL
+HUL-H-BaP2-72-R-1-2	HepG2	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	HUL-H-DMO-72-R	1	micromolar	DMSO	carcinogenomics_HUL-H-BaP2-72-R-1-2.CEL
+HUL-H-BaP2-72-R-2-2	HepG2	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	HUL-H-DMO-72-R	1	micromolar	DMSO	carcinogenomics_HUL-H-BaP2-72-R-2-2.CEL
+HUL-H-BaP2-72-R-3-2	HepG2	benzo[a]pyrene	CHEMBL31184	Genotoxic	FALSE	HUL-H-DMO-72-R	1	micromolar	DMSO	carcinogenomics_HUL-H-BaP2-72-R-3-2.CEL
+HUL-H-CLO1-24-R-1-1	HepG2	clonidine	CHEMBL134	Non-carcinogen	FALSE	HUL-H-DMO-24-R	0.0948	micromolar	DMSO	carcinogenomics_HUL-H-CLO1-24-R-1-1.CEL
+HUL-H-CLO1-24-R-2-1	HepG2	clonidine	CHEMBL134	Non-carcinogen	FALSE	HUL-H-DMO-24-R	0.0948	micromolar	DMSO	carcinogenomics_HUL-H-CLO1-24-R-2-1.CEL
+HUL-H-CLO1-24-R-3-1	HepG2	clonidine	CHEMBL134	Non-carcinogen	FALSE	HUL-H-DMO-24-R	0.0948	micromolar	DMSO	carcinogenomics_HUL-H-CLO1-24-R-3-1.CEL
+HUL-H-CLO1-72-R-1-1	HepG2	clonidine	CHEMBL134	Non-carcinogen	FALSE	HUL-H-DMO-72-R	0.0948	micromolar	DMSO	carcinogenomics_HUL-H-CLO1-72-R-1-1.CEL
+HUL-H-CLO1-72-R-2-1	HepG2	clonidine	CHEMBL134	Non-carcinogen	FALSE	HUL-H-DMO-72-R	0.0948	micromolar	DMSO	carcinogenomics_HUL-H-CLO1-72-R-2-1.CEL
+HUL-H-CLO1-72-R-3-1	HepG2	clonidine	CHEMBL134	Non-carcinogen	FALSE	HUL-H-DMO-72-R	0.0948	micromolar	DMSO	carcinogenomics_HUL-H-CLO1-72-R-3-1.CEL
+HUL-H-CYC1-24-R-1-1	HepG2	cyclophosphamide hydrate	CHEMBL1200796	Genotoxic	FALSE	HUL-H-DMO-24-R	4.7	micromolar	DMSO	carcinogenomics_HUL-H-CYC1-24-R-1-1.CEL
+HUL-H-CYC1-24-R-2-1	HepG2	cyclophosphamide hydrate	CHEMBL1200796	Genotoxic	FALSE	HUL-H-DMO-24-R	4.7	micromolar	DMSO	carcinogenomics_HUL-H-CYC1-24-R-2-1.CEL
+HUL-H-CYC1-24-R-3-1	HepG2	cyclophosphamide hydrate	CHEMBL1200796	Genotoxic	FALSE	HUL-H-DMO-24-R	4.7	micromolar	DMSO	carcinogenomics_HUL-H-CYC1-24-R-3-1.CEL
+HUL-H-CYC1-72-R-1-1	HepG2	cyclophosphamide hydrate	CHEMBL1200796	Genotoxic	FALSE	HUL-H-DMO-72-R	4.7	micromolar	DMSO	carcinogenomics_HUL-H-CYC1-72-R-1-1.CEL
+HUL-H-CYC1-72-R-2-1	HepG2	cyclophosphamide hydrate	CHEMBL1200796	Genotoxic	FALSE	HUL-H-DMO-72-R	4.7	micromolar	DMSO	carcinogenomics_HUL-H-CYC1-72-R-2-1.CEL
+HUL-H-CYC1-72-R-3-1	HepG2	cyclophosphamide hydrate	CHEMBL1200796	Genotoxic	FALSE	HUL-H-DMO-72-R	4.7	micromolar	DMSO	carcinogenomics_HUL-H-CYC1-72-R-3-1.CEL
+HUL-H-DIC1-24-R-1-2	HepG2	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	HUL-H-MED-24-R	80	micromolar	Medium	carcinogenomics_HUL-H-DIC1-24-R-1-2.CEL
+HUL-H-DIC1-24-R-2-2	HepG2	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	HUL-H-MED-24-R	80	micromolar	Medium	carcinogenomics_HUL-H-DIC1-24-R-2-2.CEL
+HUL-H-DIC1-24-R-3-2	HepG2	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	HUL-H-MED-24-R	80	micromolar	Medium	carcinogenomics_HUL-H-DIC1-24-R-3-2.CEL
+HUL-H-DIC1-72-R-2-2	HepG2	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	HUL-H-MED-72-R	80	micromolar	Medium	carcinogenomics_HUL-H-DIC1-72-R-2-2.CEL
+HUL-H-DIC1-72-R-3-2	HepG2	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	HUL-H-MED-72-R	80	micromolar	Medium	carcinogenomics_HUL-H-DIC1-72-R-3-2.CEL
+HUL-H-DIC1-72-R-4-2	HepG2	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	HUL-H-MED-72-R	80	micromolar	Medium	carcinogenomics_HUL-H-DIC1-72-R-4-2.CEL
+HUL-H-DIC2-24-R-1-2	HepG2	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	HUL-H-MED-24-R	40	micromolar	Medium	carcinogenomics_HUL-H-DIC2-24-R-1-2.CEL
+HUL-H-DIC2-24-R-2-2	HepG2	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	HUL-H-MED-24-R	40	micromolar	Medium	carcinogenomics_HUL-H-DIC2-24-R-2-2.CEL
+HUL-H-DIC2-24-R-3-2	HepG2	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	HUL-H-MED-24-R	40	micromolar	Medium	carcinogenomics_HUL-H-DIC2-24-R-3-2.CEL
+HUL-H-DIC2-72-R-2-2	HepG2	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	HUL-H-MED-72-R	40	micromolar	Medium	carcinogenomics_HUL-H-DIC2-72-R-2-2.CEL
+HUL-H-DIC2-72-R-3-2	HepG2	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	HUL-H-MED-72-R	40	micromolar	Medium	carcinogenomics_HUL-H-DIC2-72-R-3-2.CEL
+HUL-H-DIC2-72-R-4-2	HepG2	diclofenac sodium	CHEMBL1034	Non-carcinogen	FALSE	HUL-H-MED-72-R	40	micromolar	Medium	carcinogenomics_HUL-H-DIC2-72-R-4-2.CEL
+HUL-H-DMN1-24-R-1-2	HepG2	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	HUL-H-MED-24-R	10000	micromolar	Medium	carcinogenomics_HUL-H-DMN1-24-R-1-2.CEL
+HUL-H-DMN1-24-R-2-2	HepG2	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	HUL-H-MED-24-R	10000	micromolar	Medium	carcinogenomics_HUL-H-DMN1-24-R-2-2.CEL
+HUL-H-DMN1-24-R-3-2	HepG2	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	HUL-H-MED-24-R	10000	micromolar	Medium	carcinogenomics_HUL-H-DMN1-24-R-3-2.CEL
+HUL-H-DMN1-72-R-1-2	HepG2	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	HUL-H-MED-72-R	10000	micromolar	Medium	carcinogenomics_HUL-H-DMN1-72-R-1-2.CEL
+HUL-H-DMN1-72-R-2-2	HepG2	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	HUL-H-MED-72-R	10000	micromolar	Medium	carcinogenomics_HUL-H-DMN1-72-R-2-2.CEL
+HUL-H-DMN1-72-R-3-2	HepG2	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	HUL-H-MED-72-R	10000	micromolar	Medium	carcinogenomics_HUL-H-DMN1-72-R-3-2.CEL
+HUL-H-DMN2-24-R-1-2	HepG2	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	HUL-H-MED-24-R	5000	micromolar	Medium	carcinogenomics_HUL-H-DMN2-24-R-1-2.CEL
+HUL-H-DMN2-24-R-2-2	HepG2	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	HUL-H-MED-24-R	5000	micromolar	Medium	carcinogenomics_HUL-H-DMN2-24-R-2-2.CEL
+HUL-H-DMN2-24-R-3-2	HepG2	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	HUL-H-MED-24-R	5000	micromolar	Medium	carcinogenomics_HUL-H-DMN2-24-R-3-2.CEL
+HUL-H-DMN2-72-R-1-2	HepG2	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	HUL-H-MED-72-R	5000	micromolar	Medium	carcinogenomics_HUL-H-DMN2-72-R-1-2.CEL
+HUL-H-DMN2-72-R-2-2	HepG2	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	HUL-H-MED-72-R	5000	micromolar	Medium	carcinogenomics_HUL-H-DMN2-72-R-2-2.CEL
+HUL-H-DMN2-72-R-3-2	HepG2	N-nitrosodimethylamine	CHEMBL117311	Genotoxic	FALSE	HUL-H-MED-72-R	5000	micromolar	Medium	carcinogenomics_HUL-H-DMN2-72-R-3-2.CEL
+HUL-H-DMO-24-R-1-2	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMO-24-R-1-2.CEL
+HUL-H-DMO-24-R-2-2	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMO-24-R-2-2.CEL
+HUL-H-DMO-24-R-3-2	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMO-24-R-3-2.CEL
+HUL-H-DMO-24-R-4-2	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMO-24-R-4-2.CEL
+HUL-H-DMO-72-R-1-2	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMO-72-R-1-2.CEL
+HUL-H-DMO-72-R-2-2	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMO-72-R-2-2.CEL
+HUL-H-DMO-72-R-3-2	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMO-72-R-3-2.CEL
+HUL-H-DMO-72-R-4-2	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMO-72-R-4-2.CEL
+HUL-H-DMSO-24-R-10-1	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMSO-24-R-10-1.CEL
+HUL-H-DMSO-24-R-11-1	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMSO-24-R-11-1.CEL
+HUL-H-DMSO-24-R-6-1	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMSO-24-R-6-1.CEL
+HUL-H-DMSO-24-R-7-1	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMSO-24-R-7-1.CEL
+HUL-H-DMSO-24-R-8-1	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMSO-24-R-8-1.CEL
+HUL-H-DMSO-24-R-9-1	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMSO-24-R-9-1.CEL
+HUL-H-DMSO-72-R-10-1	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMSO-72-R-10-1.CEL
+HUL-H-DMSO-72-R-11-1	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMSO-72-R-11-1.CEL
+HUL-H-DMSO-72-R-6-1	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMSO-72-R-6-1.CEL
+HUL-H-DMSO-72-R-7-1	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMSO-72-R-7-1.CEL
+HUL-H-DMSO-72-R-8-1	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMSO-72-R-8-1.CEL
+HUL-H-DMSO-72-R-9-1	HepG2	dimethyl sulfoxide	CHEMBL504	DMSO	TRUE				DMSO	carcinogenomics_HUL-H-DMSO-72-R-9-1.CEL
+HUL-H-DMT1-24-R-1-2	HepG2	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	HUL-H-MED-24-R	10000	micromolar	Medium	carcinogenomics_HUL-H-DMT1-24-R-1-2.CEL
+HUL-H-DMT1-24-R-2-2	HepG2	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	HUL-H-MED-24-R	10000	micromolar	Medium	carcinogenomics_HUL-H-DMT1-24-R-2-2.CEL
+HUL-H-DMT1-24-R-3-2	HepG2	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	HUL-H-MED-24-R	10000	micromolar	Medium	carcinogenomics_HUL-H-DMT1-24-R-3-2.CEL
+HUL-H-DMT1-72-R-1-2	HepG2	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	HUL-H-MED-72-R	10000	micromolar	Medium	carcinogenomics_HUL-H-DMT1-72-R-1-2.CEL
+HUL-H-DMT1-72-R-2-2	HepG2	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	HUL-H-MED-72-R	10000	micromolar	Medium	carcinogenomics_HUL-H-DMT1-72-R-2-2.CEL
+HUL-H-DMT1-72-R-3-2	HepG2	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	HUL-H-MED-72-R	10000	micromolar	Medium	carcinogenomics_HUL-H-DMT1-72-R-3-2.CEL
+HUL-H-DMT2-24-R-1-2	HepG2	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	HUL-H-MED-24-R	5000	micromolar	Medium	carcinogenomics_HUL-H-DMT2-24-R-1-2.CEL
+HUL-H-DMT2-24-R-2-2	HepG2	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	HUL-H-MED-24-R	5000	micromolar	Medium	carcinogenomics_HUL-H-DMT2-24-R-2-2.CEL
+HUL-H-DMT2-24-R-3-2	HepG2	D-mannitol	CHEMBL689	Non-carcinogen	FALSE	HUL-H-MED-24-R	5000	micromolar	Medium	carcinogenomics_HUL-H-DMT2-24-R-3-2.CEL

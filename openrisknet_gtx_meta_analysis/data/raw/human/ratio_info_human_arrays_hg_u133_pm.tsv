@@ -1,0 +1,208 @@
+Source Name	Characteristics[Strain]	Factor Value[Compound]	Comment [ChEMBL ID]	Genotoxicity	Characteristics[CompoundClass]	Characteristics[Control]	Characteristics[SampleMatch]	Factor Value[Dose]	Characteristics[DoseUnit]	Factor Value[Time]	Characteristics[TimeUnit]	Replicate	Characteristics[Vehicule]	array_file	control_file	final_array_name
+H2O2_50(1)_1.5	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2contr(1)_1.1	50	uM	1	h	1	HBSS	H05_H2O2_50_1__1.5.CEL	G05_H2O2contr_1__1.1.CEL	study12_Fentons_reagent_50uM_1h_1
+H2O2_50(1)_2.5	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2_contr(1)_2.1	50	uM	2	h	1	HBSS	E09_H2O2_50_1__2.5.CEL	E05_H2O2_contr_1__2.1.CEL	study12_Fentons_reagent_50uM_2h_1
+H2O2_50(1)_24.5	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2_contr(1)_24.1	50	uM	24	h	1	HBSS	H05_H2O2_50_1__24.5.CEL	G05_H2O2_contr_1__24.1.CEL	study12_Fentons_reagent_50uM_24h_1
+H2O2_50(1)_30.5	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2contr(1)_30.1	50	uM	0.5	h	1	HBSS	F05_H2O2_50_1__30.5.CEL	E05_H2O2contr_1__30.1.CEL	study12_Fentons_reagent_50uM_05h_1
+H2O2_50(1)_4.5	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2_contr(1)_4.1	50	uM	4	h	1	HBSS	F09_H2O2_50_1__4.5.CEL	F07_H2O2_contr_1__4.1.CEL	study12_Fentons_reagent_50uM_4h_1
+H2O2_50(1)_6.5	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2_contr(1)_6.1	50	uM	6	h	1	HBSS	F05_H2O2_50_1__6.5.CEL	E05_H2O2_contr_1__6.1.CEL	study12_Fentons_reagent_50uM_6h_1
+H2O2_50(1)_8.5	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2_contr(1)_8.1	50	uM	8	h	1	HBSS	H05_H2O2_50_1__8.5.CEL	G05_H2O2_contr_1__8.1.CEL	study12_Fentons_reagent_50uM_8h_1
+H2O2_50(2)_1.6	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2contr(2)_1.2	50	uM	1	h	2	HBSS	H07_H2O2_50_2__1.6.CEL	G07_H2O2contr_2__1.2.CEL	study12_Fentons_reagent_50uM_1h_2
+H2O2_50(2)_2.6	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2_contr(2)_2.2	50	uM	2	h	2	HBSS	B07_H2O2_50_2__2.6.CEL	A07_H2O2_contr_2__2.2.CEL	study12_Fentons_reagent_50uM_2h_2
+H2O2_50(2)_24.6	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2_contr(2)_24.2	50	uM	24	h	2	HBSS	H07_H2O2_50_2__24.6.CEL	G07_H2O2_contr_2__24.2.CEL	study12_Fentons_reagent_50uM_24h_2
+H2O2_50(2)_30.6	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2contr(2)_30.2	50	uM	0.5	h	2	HBSS	F07_H2O2_50_2__30.6.CEL	E07_H2O2contr_2__30.2.CEL	study12_Fentons_reagent_50uM_05h_2
+H2O2_50(2)_4.6	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2_contr(2)_4.2	50	uM	4	h	2	HBSS	D07_H2O2_50_2__4.6.CEL	C07_H2O2_contr_2__4.2.CEL	study12_Fentons_reagent_50uM_4h_2
+H2O2_50(2)_6.6	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2_contr(2)_6.2	50	uM	6	h	2	HBSS	F07_H2O2_50_2__6.6.CEL	E07_H2O2_contr_2__6.2.CEL	study12_Fentons_reagent_50uM_6h_2
+H2O2_50(2)_8.6	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2_contr(2)_8.2	50	uM	8	h	2	HBSS	H07_H2O2_50_2__8.6.CEL	G07_H2O2_contr_2__8.2.CEL	study12_Fentons_reagent_50uM_8h_2
+H2O2_contr(1)_2.1	HepG2	medium				TRUE		0	uM	2	h	1	HBSS	E05_H2O2_contr_1__2.1.CEL		
+H2O2_contr(1)_24.1	HepG2	medium				TRUE		0	uM	24	h	1	HBSS	G05_H2O2_contr_1__24.1.CEL		
+H2O2_contr(1)_4.1	HepG2	medium				TRUE		0	uM	4	h	1	HBSS	F07_H2O2_contr_1__4.1.CEL		
+H2O2_contr(1)_6.1	HepG2	medium				TRUE		0	uM	6	h	1	HBSS	E05_H2O2_contr_1__6.1.CEL		
+H2O2_contr(1)_8.1	HepG2	medium				TRUE		0	uM	8	h	1	HBSS	G05_H2O2_contr_1__8.1.CEL		
+H2O2_contr(2)_2.2	HepG2	medium				TRUE		0	uM	2	h	2	HBSS	A07_H2O2_contr_2__2.2.CEL		
+H2O2_contr(2)_24.2	HepG2	medium				TRUE		0	uM	24	h	2	HBSS	G07_H2O2_contr_2__24.2.CEL		
+H2O2_contr(2)_4.2	HepG2	medium				TRUE		0	uM	4	h	2	HBSS	C07_H2O2_contr_2__4.2.CEL		
+H2O2_contr(2)_6.2	HepG2	medium				TRUE		0	uM	6	h	2	HBSS	E07_H2O2_contr_2__6.2.CEL		
+H2O2_contr(2)_8.2	HepG2	medium				TRUE		0	uM	8	h	2	HBSS	G07_H2O2_contr_2__8.2.CEL		
+H2O2_contr(3)-2.7	HepG2	medium				TRUE		0	uM	2	h	3	HBSS	E07_H2O2_contr_3_-2.7.CEL		
+H2O2_contr(3)-24.7	HepG2	medium				TRUE		0	uM	24	h	3	HBSS	G09_H2O2_contr_3_-24.7.CEL		
+H2O2_contr(3)-4.7	HepG2	medium				TRUE		0	uM	4	h	3	HBSS	C09_H2O2_contr_3_-4.7.CEL		
+H2O2_contr(3)-6.7	HepG2	medium				TRUE		0	uM	6	h	3	HBSS	E09_H2O2_contr_3_-6.7.CEL		
+H2O2_contr(3)-8.7	HepG2	medium				TRUE		0	uM	8	h	3	HBSS	G09_H2O2_contr_3_-8.7.CEL		
+H2O2-50(3)-1.8	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2contr(3)-1.7	50	uM	1	h	3	HBSS	H09_H2O2-50_3_-1.8.CEL	G09_H2O2contr_3_-1.7.CEL	study12_Fentons_reagent_50uM_1h_3
+H2O2-50(3)-2.8	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2_contr(3)-2.7	50	uM	2	h	3	HBSS	F05_H2O2-50_3_-2.8.CEL	E07_H2O2_contr_3_-2.7.CEL	study12_Fentons_reagent_50uM_2h_3
+H2O2-50(3)-24.8	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2_contr(3)-24.7	50	uM	24	h	3	HBSS	H09_H2O2-50_3_-24.8.CEL	G09_H2O2_contr_3_-24.7.CEL	study12_Fentons_reagent_50uM_24h_3
+H2O2-50(3)-30.8	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2contr(3)-30.7	50	uM	0.5	h	3	HBSS	F09_H2O2-50_3_-30.8.CEL	E09_H2O2contr_3_-30.7.CEL	study12_Fentons_reagent_50uM_05h_3
+H2O2-50(3)-4.8	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2_contr(3)-4.7	50	uM	4	h	3	HBSS	D09_H2O2-50_3_-4.8.CEL	C09_H2O2_contr_3_-4.7.CEL	study12_Fentons_reagent_50uM_4h_3
+H2O2-50(3)-6.8	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2_contr(3)-6.7	50	uM	6	h	3	HBSS	F09_H2O2-50_3_-6.8.CEL	E09_H2O2_contr_3_-6.7.CEL	study12_Fentons_reagent_50uM_6h_3
+H2O2-50(3)-8.8	HepG2	Hydrogen peroxide/Ferrous sulfate	Fentons_reagent	NGTX	NA	FALSE	H2O2_contr(3)-8.7	50	uM	8	h	3	HBSS	H09_H2O2-50_3_-8.8.CEL	G09_H2O2_contr_3_-8.7.CEL	study12_Fentons_reagent_50uM_8h_3
+H2O2contr(1)_1.1	HepG2	medium				TRUE		0	uM	1	h	1	HBSS	G05_H2O2contr_1__1.1.CEL		
+H2O2contr(1)_30.1	HepG2	medium				TRUE		0	uM	0.5	h	1	HBSS	E05_H2O2contr_1__30.1.CEL		
+H2O2contr(2)_1.2	HepG2	medium				TRUE		0	uM	1	h	2	HBSS	G07_H2O2contr_2__1.2.CEL		
+H2O2contr(2)_30.2	HepG2	medium				TRUE		0	uM	0.5	h	2	HBSS	E07_H2O2contr_2__30.2.CEL		
+H2O2contr(3)-1.7	HepG2	medium				TRUE		0	uM	1	h	3	HBSS	G09_H2O2contr_3_-1.7.CEL		
+H2O2contr(3)-30.7	HepG2	medium				TRUE		0	uM	0.5	h	3	HBSS	E09_H2O2contr_3_-30.7.CEL		
+Men_contr(1)-1.1	HepG2	medium				TRUE		0	uM	1	h	1	HBSS	C05_Men_contr_1_-1.1.CEL		
+men_contr(1)-2.1	HepG2	medium				TRUE		0	uM	2	h	1	HBSS	E05_men_contr_1_-2.1.CEL		
+men_contr(1)-24.1	HepG2	medium				TRUE		0	uM	24	h	1	HBSS	C05_men_contr_1_-24.1.CEL		
+Men_contr(1)-30.1	HepG2	medium				TRUE		0	uM	0.5	h	1	HBSS	A05_Men_contr_1_-30.1.CEL		
+men_contr(1)-4.1	HepG2	medium				TRUE		0	uM	4	h	1	HBSS	G05_men_contr_1_-4.1.CEL		
+men_contr(1)-6.1	HepG2	medium				TRUE		0	uM	6	h	1	HBSS	B07_men_contr_1_-6.1.CEL		
+men_contr(1)-8.1	HepG2	medium				TRUE		0	uM	8	h	1	HBSS	C05_men_contr_1_-8.1.CEL		
+Men_contr(2)-1.2	HepG2	medium				TRUE		0	uM	1	h	2	HBSS	C07_Men_contr_2_-1.2.CEL		
+men_contr(2)-2.2	HepG2	medium				TRUE		0	uM	2	h	2	HBSS	E07_men_contr_2_-2.2.CEL		
+men_contr(2)-24.2	HepG2	medium				TRUE		0	uM	24	h	2	HBSS	E07_men_contr_2_-24.2.CEL		
+Men_contr(2)-30.2	HepG2	medium				TRUE		0	uM	0.5	h	2	HBSS	A07_Men_contr_2_-30.2.CEL		
+men_contr(2)-4.2	HepG2	medium				TRUE		0	uM	4	h	2	HBSS	G07_men_contr_2_-4.2.CEL		
+men_contr(2)-6.2	HepG2	medium				TRUE		0	uM	6	h	2	HBSS	A07_men_contr_2_-6.2.CEL		
+men_contr(2)-8.2	HepG2	medium				TRUE		0	uM	8	h	2	HBSS	C07_men_contr_2_-8.2.CEL		
+men_contr(3)-1.7	HepG2	medium				TRUE		0	uM	1	h	3	HBSS	C09_men_contr_3_-1.7.CEL		
+men_contr(3)-2.7	HepG2	medium				TRUE		0	uM	2	h	3	HBSS	E09_men_contr_3_-2.7.CEL		
+men_contr(3)-24.7	HepG2	medium				TRUE		0	uM	24	h	3	HBSS	E09_men_contr_3_-24.7.CEL		
+men_contr(3)-30.7	HepG2	medium				TRUE		0	uM	0.5	h	3	HBSS	A09_men_contr_3_-30.7.CEL		
+men_contr(3)-4.7	HepG2	medium				TRUE		0	uM	4	h	3	HBSS	G09_men_contr_3_-4.7.CEL		
+men_contr(3)-6.7	HepG2	medium				TRUE		0	uM	6	h	3	HBSS	B09_men_contr_3_-6.7.CEL		
+men_contr(3)-8.7	HepG2	medium				TRUE		0	uM	8	h	3	HBSS	C09_men_contr_3_-8.7.CEL		
+Men100(1)-1.5	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	Men_contr(1)-1.1	100	uM	1	h	1	HBSS	D05_Men100_1_-1.5.CEL	C05_Men_contr_1_-1.1.CEL	study12_CHEMBL590_100uM_1h_1
+men100(1)-2.5	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	men_contr(1)-2.1	100	uM	2	h	1	HBSS	F05_men100_1_-2.5.CEL	E05_men_contr_1_-2.1.CEL	study12_CHEMBL590_100uM_2h_1
+men100(1)-24.5	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	men_contr(1)-24.1	100	uM	24	h	1	HBSS	F05_men100_1_-24.5.CEL	C05_men_contr_1_-24.1.CEL	study12_CHEMBL590_100uM_24h_1
+Men100(1)-30.5	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	Men_contr(1)-30.1	100	uM	0.5	h	1	HBSS	B05_Men100_1_-30.5.CEL	A05_Men_contr_1_-30.1.CEL	study12_CHEMBL590_100uM_05h_1
+men100(1)-4.5	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	men_contr(1)-4.1	100	uM	4	h	1	HBSS	H05_men100_1_-4.5.CEL	G05_men_contr_1_-4.1.CEL	study12_CHEMBL590_100uM_4h_1
+men100(1)-6.5	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	men_contr(1)-6.1	100	uM	6	h	1	HBSS	B05_men100_1_-6.5.CEL	B07_men_contr_1_-6.1.CEL	study12_CHEMBL590_100uM_6h_1
+men100(1)-8.5	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	men_contr(1)-8.1	100	uM	8	h	1	HBSS	D05_men100_1_-8.5.CEL	C05_men_contr_1_-8.1.CEL	study12_CHEMBL590_100uM_8h_1
+Men100(2)-1.6	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	Men_contr(2)-1.2	100	uM	1	h	2	HBSS	D07_Men100_2_-1.6.CEL	C07_Men_contr_2_-1.2.CEL	study12_CHEMBL590_100uM_1h_2
+men100(2)-2.6	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	men_contr(2)-2.2	100	uM	2	h	2	HBSS	F07_men100_2_-2.6.CEL	E07_men_contr_2_-2.2.CEL	study12_CHEMBL590_100uM_2h_2
+men100(2)-24.6	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	men_contr(2)-24.2	100	uM	24	h	2	HBSS	F07_men100_2_-24.6.CEL	E07_men_contr_2_-24.2.CEL	study12_CHEMBL590_100uM_24h_2
+Men100(2)-30.6	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	Men_contr(2)-30.2	100	uM	0.5	h	2	HBSS	B07_Men100_2_-30.6.CEL	A07_Men_contr_2_-30.2.CEL	study12_CHEMBL590_100uM_05h_2
+men100(2)-4.6	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	men_contr(2)-4.2	100	uM	4	h	2	HBSS	H07_men100_2_-4.6.CEL	G07_men_contr_2_-4.2.CEL	study12_CHEMBL590_100uM_4h_2
+men100(2)-6.6	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	men_contr(2)-6.2	100	uM	6	h	2	HBSS	B07_men100_2_-6.6.CEL	A07_men_contr_2_-6.2.CEL	study12_CHEMBL590_100uM_6h_2
+men100(2)-8.6	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	men_contr(2)-8.2	100	uM	8	h	2	HBSS	D07_men100_2_-8.6.CEL	C07_men_contr_2_-8.2.CEL	study12_CHEMBL590_100uM_8h_2
+men100(3)-1.8	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	men_contr(3)-1.7	100	uM	1	h	3	HBSS	D09_men100_3_-1.8.CEL	C09_men_contr_3_-1.7.CEL	study12_CHEMBL590_100uM_1h_3
+men100(3)-2.8	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	men_contr(3)-2.7	100	uM	2	h	3	HBSS	F09_men100_3_-2.8.CEL	E09_men_contr_3_-2.7.CEL	study12_CHEMBL590_100uM_2h_3
+men100(3)-24.8	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	men_contr(3)-24.7	100	uM	24	h	3	HBSS	F09_men100_3_-24.8.CEL	E09_men_contr_3_-24.7.CEL	study12_CHEMBL590_100uM_24h_3
+men100(3)-30.8	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	men_contr(3)-30.7	100	uM	0.5	h	3	HBSS	B05_men100_3_-30.8.CEL	A09_men_contr_3_-30.7.CEL	study12_CHEMBL590_100uM_05h_3
+men100(3)-4.8	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	men_contr(3)-4.7	100	uM	4	h	3	HBSS	H09_men100_3_-4.8.CEL	G09_men_contr_3_-4.7.CEL	study12_CHEMBL590_100uM_4h_3
+men100(3)-6.8	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	men_contr(3)-6.7	100	uM	6	h	3	HBSS	B09_men100_3_-6.8.CEL	B09_men_contr_3_-6.7.CEL	study12_CHEMBL590_100uM_6h_3
+men100(3)-8.8	HepG2	menadione	CHEMBL590	NGTX	NC	FALSE	men_contr(3)-8.7	100	uM	8	h	3	HBSS	D09_men100_3_-8.8.CEL	C09_men_contr_3_-8.7.CEL	study12_CHEMBL590_100uM_8h_3
+TBH200()-30.5	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(1)-30.1	200	uM	0.5	h	1	HBSS	H05_TBH200__-30.5.CEL	G05_TBHcontr_1_-30.1.CEL	study12_CHEMBL348399_200uM_05h_1
+TBH200(1)-1.5	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(1)-1.1	200	uM	1	h	1	HBSS	B05_TBH200_1_-1.5.CEL	C07_TBHcontr_1_-1.1.CEL	study12_CHEMBL348399_200uM_1h_1
+TBH200(1)-2.5	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(1)-2.1	200	uM	2	h	1	HBSS	D05_TBH200_1_-2.5.CEL	C05_TBHcontr_1_-2.1.CEL	study12_CHEMBL348399_200uM_2h_1
+TBH200(1)-24.5	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(1)-24.1	200	uM	24	h	1	HBSS	D05_TBH200_1_-24.5.CEL	C05_TBHcontr_1_-24.1.CEL	study12_CHEMBL348399_200uM_24h_1
+TBH200(1)-4.5	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(1)-4.1	200	uM	4	h	1	HBSS	D07_TBH200_1_-4.5.CEL	E05_TBHcontr_1_-4.1.CEL	study12_CHEMBL348399_200uM_4h_1
+TBH200(1)-6.5	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(1)-6.1	200	uM	6	h	1	HBSS	H05_TBH200_1_-6.5.CEL	G05_TBHcontr_1_-6.1.CEL	study12_CHEMBL348399_200uM_6h_1
+TBH200(1)-8.5	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(1)-8.1	200	uM	8	h	1	HBSS	B05_TBH200_1_-8.5.CEL	A05_TBHcontr_1_-8.1.CEL	study12_CHEMBL348399_200uM_8h_1
+TBH200(2)-1.6	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(2)-1.2	200	uM	1	h	2	HBSS	B07_TBH200_2_-1.6.CEL	A07_TBHcontr_2_-1.2.CEL	study12_CHEMBL348399_200uM_1h_2
+TBH200(2)-2.6	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(2)-2.2	200	uM	2	h	2	HBSS	D07_TBH200_2_-2.6.CEL	C07_TBHcontr_2_-2.2.CEL	study12_CHEMBL348399_200uM_2h_2
+TBH200(2)-24.6	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(2)-24.2	200	uM	24	h	2	HBSS	D07_TBH200_2_-24.6.CEL	C07_TBHcontr_2_-24.2.CEL	study12_CHEMBL348399_200uM_24h_2
+TBH200(2)-30.6	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(2)-30.2	200	uM	0.5	h	2	HBSS	H07_TBH200_2_-30.6.CEL	G07_TBHcontr_2_-30.2.CEL	study12_CHEMBL348399_200uM_05h_2
+TBH200(2)-4.6	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(2)-4.2	200	uM	4	h	2	HBSS	F07_TBH200_2_-4.6.CEL	E07_TBHcontr_2_-4.2.CEL	study12_CHEMBL348399_200uM_4h_2
+TBH200(2)-6.6	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(2)-6.2	200	uM	6	h	2	HBSS	H07_TBH200_2_-6.6.CEL	G07_TBHcontr_2_-6.2.CEL	study12_CHEMBL348399_200uM_6h_2
+TBH200(2)-8.6	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(2)-8.2	200	uM	8	h	2	HBSS	B07_TBH200_2_-8.6.CEL	D09_TBHcontr_2_-8.2.CEL	study12_CHEMBL348399_200uM_8h_2
+TBH200(3)-1.8	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(3)-1.7	200	uM	1	h	3	HBSS	D05_TBH200_3_-1.8.CEL	C09_TBHcontr_3_-1.7.CEL	study12_CHEMBL348399_200uM_1h_3
+TBH200(3)-2.8	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(3)-2.7	200	uM	2	h	3	HBSS	D09_TBH200_3_-2.8.CEL	C09_TBHcontr_3_-2.7.CEL	study12_CHEMBL348399_200uM_2h_3
+TBH200(3)-24.8	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(3)-24.7	200	uM	24	h	3	HBSS	D09_TBH200_3_-24.8.CEL	C09_TBHcontr_3_-24.7.CEL	study12_CHEMBL348399_200uM_24h_3
+TBH200(3)-30.8	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(3)-30.7	200	uM	0.5	h	3	HBSS	H09_TBH200_3_-30.8.CEL	G09_TBHcontr_3_-30.7.CEL	study12_CHEMBL348399_200uM_05h_3
+TBH200(3)-4.8	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(3)-4.7	200	uM	4	h	3	HBSS	F09_TBH200_3_-4.8.CEL	E09_TBHcontr_3_-4.7.CEL	study12_CHEMBL348399_200uM_4h_3
+TBH200(3)-6.8	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(3)-6.7	200	uM	6	h	3	HBSS	H09_TBH200_3_-6.8.CEL	G09_TBHcontr_3_-6.7.CEL	study12_CHEMBL348399_200uM_6h_3
+TBH200(3)-8.8	HepG2	tert-butyl hydroperoxide	CHEMBL348399	GTX	C	FALSE	TBHcontr(3)-8.7	200	uM	8	h	3	HBSS	B09_TBH200_3_-8.8.CEL	A09_TBHcontr_3_-8.7.CEL	study12_CHEMBL348399_200uM_8h_3
+TBHcontr(1)-1.1	HepG2	medium				TRUE		0	uM	1	h	1	HBSS	C07_TBHcontr_1_-1.1.CEL		
+TBHcontr(1)-2.1	HepG2	medium				TRUE		0	uM	2	h	1	HBSS	C05_TBHcontr_1_-2.1.CEL		
+TBHcontr(1)-24.1	HepG2	medium				TRUE		0	uM	24	h	1	HBSS	C05_TBHcontr_1_-24.1.CEL		
+TBHcontr(1)-30.1	HepG2	medium				TRUE		0	uM	0.5	h	1	HBSS	G05_TBHcontr_1_-30.1.CEL		
+TBHcontr(1)-4.1	HepG2	medium				TRUE		0	uM	4	h	1	HBSS	E05_TBHcontr_1_-4.1.CEL		
+TBHcontr(1)-6.1	HepG2	medium				TRUE		0	uM	6	h	1	HBSS	G05_TBHcontr_1_-6.1.CEL		
+TBHcontr(1)-8.1	HepG2	medium				TRUE		0	uM	8	h	1	HBSS	A05_TBHcontr_1_-8.1.CEL		
+TBHcontr(2)-1.2	HepG2	medium				TRUE		0	uM	1	h	2	HBSS	A07_TBHcontr_2_-1.2.CEL		
+TBHcontr(2)-2.2	HepG2	medium				TRUE		0	uM	2	h	2	HBSS	C07_TBHcontr_2_-2.2.CEL		
+TBHcontr(2)-24.2	HepG2	medium				TRUE		0	uM	24	h	2	HBSS	C07_TBHcontr_2_-24.2.CEL		
+TBHcontr(2)-30.2	HepG2	medium				TRUE		0	uM	0.5	h	2	HBSS	G07_TBHcontr_2_-30.2.CEL		
+TBHcontr(2)-4.2	HepG2	medium				TRUE		0	uM	4	h	2	HBSS	E07_TBHcontr_2_-4.2.CEL		
+TBHcontr(2)-6.2	HepG2	medium				TRUE		0	uM	6	h	2	HBSS	G07_TBHcontr_2_-6.2.CEL		
+TBHcontr(2)-8.2	HepG2	medium				TRUE		0	uM	8	h	2	HBSS	D09_TBHcontr_2_-8.2.CEL		
+TBHcontr(3)-1.7	HepG2	medium				TRUE		0	uM	1	h	3	HBSS	C09_TBHcontr_3_-1.7.CEL		
+TBHcontr(3)-2.7	HepG2	medium				TRUE		0	uM	2	h	3	HBSS	C09_TBHcontr_3_-2.7.CEL		
+TBHcontr(3)-24.7	HepG2	medium				TRUE		0	uM	24	h	3	HBSS	C09_TBHcontr_3_-24.7.CEL		
+TBHcontr(3)-30.7	HepG2	medium				TRUE		0	uM	0.5	h	3	HBSS	G09_TBHcontr_3_-30.7.CEL		
+TBHcontr(3)-4.7	HepG2	medium				TRUE		0	uM	4	h	3	HBSS	E09_TBHcontr_3_-4.7.CEL		
+TBHcontr(3)-6.7	HepG2	medium				TRUE		0	uM	6	h	3	HBSS	G09_TBHcontr_3_-6.7.CEL		
+TBHcontr(3)-8.7	HepG2	medium				TRUE		0	uM	8	h	3	HBSS	A09_TBHcontr_3_-8.7.CEL		
+AZA_250uM_1_4h	HepG2	Azathriopine	CHEMBL1542	GTX	C	FALSE	DMSO_Cont_1_4h	250	uM	4	h	1	DMSO	GSM1404399_E07_AZA_250uM_1_4h.CEL	GSM1404414_E05_DMSO_Cont_1_4h.CEL	study13_CHEMBL1542_250uM_4h_1
+AZA_250uM_1_8h	HepG2	Azathriopine	CHEMBL1542	GTX	C	FALSE	DMSO_Cont_1_8h	250	uM	8	h	1	DMSO	GSM1404400_G05_AZA_250uM_1_8h.CEL	GSM1404415_F09_DMSO_Cont_1_8h.CEL	study13_CHEMBL1542_250uM_8h_1
+AZA_250uM_1_72h	HepG2	Azathriopine	CHEMBL1542	GTX	C	FALSE	DMSO_Cont_1_72h	250	uM	72	h	1	DMSO	GSM1404403_H09_AZA_250uM_1_72h.CEL	GSM1404418_H07_DMSO_Cont_1_72h.CEL	study13_CHEMBL1542_250uM_72h_1
+AZA_250uM_2_4h	HepG2	Azathriopine	CHEMBL1542	GTX	C	FALSE	DMSO_Cont_2_4h	250	uM	4	h	2	DMSO	GSM1404404_F09_AZA_250uM_2_4h.CEL	GSM1404419_E05_DMSO_Cont_2_4h.CEL	study13_CHEMBL1542_250uM_4h_2
+AZA_250uM_2_8h	HepG2	Azathriopine	CHEMBL1542	GTX	C	FALSE	DMSO_Cont_2_8h	250	uM	8	h	2	DMSO	GSM1404405_C09_AZA_250uM_2_8h.CEL	GSM1404420_F09_DMSO_Cont_2_8h.CEL	study13_CHEMBL1542_250uM_8h_2
+AZA_250uM_2_72h	HepG2	Azathriopine	CHEMBL1542	GTX	C	FALSE	DMSO_Cont_2_72h	250	uM	72	h	2	DMSO	GSM1404408_B07_AZA_250uM_2_72h.CEL	GSM1404423_H07_DMSO_Cont_2_72h.CEL	study13_CHEMBL1542_250uM_72h_2
+AZA_250uM_3_4h	HepG2	Azathriopine	CHEMBL1542	GTX	C	FALSE	DMSO_Cont_3_4h	250	uM	4	h	3	DMSO	GSM1404409_E07_AZA_250uM_3_4h.CEL	GSM1404424_E05_DMSO_Cont_3_4h.CEL	study13_CHEMBL1542_250uM_4h_3
+AZA_250uM_3_8h	HepG2	Azathriopine	CHEMBL1542	GTX	C	FALSE	DMSO_Cont_3_8h	250	uM	8	h	3	DMSO	GSM1404410_G05_AZA_250uM_3_8h.CEL	GSM1404425_F09_DMSO_Cont_3_8h.CEL	study13_CHEMBL1542_250uM_8h_3
+AZA_250uM_3_72h	HepG2	Azathriopine	CHEMBL1542	GTX	C	FALSE	DMSO_Cont_3_72h	250	uM	72	h	3	DMSO	GSM1404413_H09_AZA_250uM_3_72h.CEL	GSM1404428_H07_DMSO_Cont_3_72h.CEL	study13_CHEMBL1542_250uM_72h_3
+DMSO_Cont_1_4h	HepG2	DMSO control				TRUE		0.5	perc	4	h	1		GSM1404414_E05_DMSO_Cont_1_4h.CEL		
+DMSO_Cont_1_8h	HepG2	DMSO control				TRUE		0.5	perc	8	h	1		GSM1404415_F09_DMSO_Cont_1_8h.CEL		
+DMSO_Cont_1_72h	HepG2	DMSO control				TRUE		0.5	perc	72	h	1		GSM1404418_H07_DMSO_Cont_1_72h.CEL		
+DMSO_Cont_2_4h	HepG2	DMSO control				TRUE		0.5	perc	4	h	2		GSM1404419_E05_DMSO_Cont_2_4h.CEL		
+DMSO_Cont_2_8h	HepG2	DMSO control				TRUE		0.5	perc	8	h	2		GSM1404420_F09_DMSO_Cont_2_8h.CEL		
+DMSO_Cont_2_72h	HepG2	DMSO control				TRUE		0.5	perc	72	h	2		GSM1404423_H07_DMSO_Cont_2_72h.CEL		
+DMSO_Cont_3_4h	HepG2	DMSO control				TRUE		0.5	perc	4	h	3		GSM1404424_E05_DMSO_Cont_3_4h.CEL		
+DMSO_Cont_3_8h	HepG2	DMSO control				TRUE		0.5	perc	8	h	3		GSM1404425_F09_DMSO_Cont_3_8h.CEL		
+DMSO_Cont_3_72h	HepG2	DMSO control				TRUE		0.5	perc	72	h	3		GSM1404428_H07_DMSO_Cont_3_72h.CEL		
+DZN_250uM_1_4h	HepG2	Diazinon	CHEMBL388560	GTX	NC	FALSE	DMSO_Cont_1_4h	250	uM	4	h	1	DMSO	GSM1404429_F07_DZN_250uM_1_4h.CEL	GSM1404414_E05_DMSO_Cont_1_4h.CEL	study13_CHEMBL388560_250uM_4h_1
+DZN_250uM_1_8h	HepG2	Diazinon	CHEMBL388560	GTX	NC	FALSE	DMSO_Cont_1_8h	250	uM	8	h	1	DMSO	GSM1404430_H09_DZN_250uM_1_8h.CEL	GSM1404415_F09_DMSO_Cont_1_8h.CEL	study13_CHEMBL388560_250uM_8h_1
+DZN_250uM_1_72h	HepG2	Diazinon	CHEMBL388560	GTX	NC	FALSE	DMSO_Cont_1_72h	250	uM	72	h	1	DMSO	GSM1404433_G09_DZN_250uM_1_72h.CEL	GSM1404418_H07_DMSO_Cont_1_72h.CEL	study13_CHEMBL388560_250uM_72h_1
+DZN_250uM_2_4h	HepG2	Diazinon	CHEMBL388560	GTX	NC	FALSE	DMSO_Cont_2_4h	250	uM	4	h	2	DMSO	GSM1404434_A05_DZN_250uM_2_4h.CEL	GSM1404419_E05_DMSO_Cont_2_4h.CEL	study13_CHEMBL388560_250uM_4h_2
+DZN_250uM_2_8h	HepG2	Diazinon	CHEMBL388560	GTX	NC	FALSE	DMSO_Cont_2_8h	250	uM	8	h	2	DMSO	GSM1404435_G07_DZN_250uM_2_8h.CEL	GSM1404420_F09_DMSO_Cont_2_8h.CEL	study13_CHEMBL388560_250uM_8h_2
+DZN_250uM_2_72h	HepG2	Diazinon	CHEMBL388560	GTX	NC	FALSE	DMSO_Cont_2_72h	250	uM	72	h	2	DMSO	GSM1404438_H07_DZN_250uM_2_72h.CEL	GSM1404423_H07_DMSO_Cont_2_72h.CEL	study13_CHEMBL388560_250uM_72h_2
+DZN_250uM_3_4h	HepG2	Diazinon	CHEMBL388560	GTX	NC	FALSE	DMSO_Cont_3_4h	250	uM	4	h	3	DMSO	GSM1404439_F07_DZN_250uM_3_4h.CEL	GSM1404424_E05_DMSO_Cont_3_4h.CEL	study13_CHEMBL388560_250uM_4h_3
+DZN_250uM_3_8h	HepG2	Diazinon	CHEMBL388560	GTX	NC	FALSE	DMSO_Cont_3_8h	250	uM	8	h	3	DMSO	GSM1404440_H05_DZN_250uM_3_8h.CEL	GSM1404425_F09_DMSO_Cont_3_8h.CEL	study13_CHEMBL388560_250uM_8h_3
+DZN_250uM_3_72h	HepG2	Diazinon	CHEMBL388560	GTX	NC	FALSE	DMSO_Cont_3_72h	250	uM	72	h	3	DMSO	GSM1404443_F05_DZN_250uM_3_72h.CEL	GSM1404428_H07_DMSO_Cont_3_72h.CEL	study13_CHEMBL388560_250uM_72h_3
+Fu_2mM_1_4h	HepG2	Furan	CHEMBL278980	GTX	C	FALSE	DMSO_Cont_1_4h	2	mM	4	h	1	DMSO	GSM1404444_C09_Fu_2mM_1_4h.CEL	GSM1404414_E05_DMSO_Cont_1_4h.CEL	study13_CHEMBL278980_2mM_4h_1
+Fu_2mM_1_8h	HepG2	Furan	CHEMBL278980	GTX	C	FALSE	DMSO_Cont_1_8h	2	mM	8	h	1	DMSO	GSM1404445_G07_Fu_2mM_1_8h.CEL	GSM1404415_F09_DMSO_Cont_1_8h.CEL	study13_CHEMBL278980_2mM_8h_1
+Fu_2mM_1_72h	HepG2	Furan	CHEMBL278980	GTX	C	FALSE	DMSO_Cont_1_72h	2	mM	72	h	1	DMSO	GSM1404448_D07_Fu_2mM_1_72h.CEL	GSM1404418_H07_DMSO_Cont_1_72h.CEL	study13_CHEMBL278980_2mM_72h_1
+Fu_2mM_2_4h	HepG2	Furan	CHEMBL278980	GTX	C	FALSE	DMSO_Cont_2_4h	2	mM	4	h	2	DMSO	GSM1404449_C05_Fu_2mM_2_4h.CEL	GSM1404419_E05_DMSO_Cont_2_4h.CEL	study13_CHEMBL278980_2mM_4h_2
+Fu_2mM_2_8h	HepG2	Furan	CHEMBL278980	GTX	C	FALSE	DMSO_Cont_2_8h	2	mM	8	h	2	DMSO	GSM1404450_G07_Fu_2mM_2_8h.CEL	GSM1404420_F09_DMSO_Cont_2_8h.CEL	study13_CHEMBL278980_2mM_8h_2
+Fu_2mM_2_72h	HepG2	Furan	CHEMBL278980	GTX	C	FALSE	DMSO_Cont_2_72h	2	mM	72	h	2	DMSO	GSM1404453_E05_Fu_2mM_2_72h.CEL	GSM1404423_H07_DMSO_Cont_2_72h.CEL	study13_CHEMBL278980_2mM_72h_2
+Fu_2mM_3_4h	HepG2	Furan	CHEMBL278980	GTX	C	FALSE	DMSO_Cont_3_4h	2	mM	4	h	3	DMSO	GSM1404454_E09_Fu_2mM_3_4h.CEL	GSM1404424_E05_DMSO_Cont_3_4h.CEL	study13_CHEMBL278980_2mM_4h_3
+Fu_2mM_3_8h	HepG2	Furan	CHEMBL278980	GTX	C	FALSE	DMSO_Cont_3_8h	2	mM	8	h	3	DMSO	GSM1404455_G07_Fu_2mM_3_8h.CEL	GSM1404425_F09_DMSO_Cont_3_8h.CEL	study13_CHEMBL278980_2mM_8h_3
+Fu_2mM_3_72h	HepG2	Furan	CHEMBL278980	GTX	C	FALSE	DMSO_Cont_3_72h	2	mM	72	h	3	DMSO	GSM1404458_G07_Fu_2mM_3_72h.CEL	GSM1404428_H07_DMSO_Cont_3_72h.CEL	study13_CHEMBL278980_2mM_72h_3
+TPA_500nM_1_4h	HepG2	Tetradecanoyl phorbol acetate	CHEMBL502495	NGTX	C	FALSE	DMSO_Cont_1_4h	500	nM	4	h	1	DMSO	GSM1404459_F05_TPA_500nM_1_4h.CEL	GSM1404414_E05_DMSO_Cont_1_4h.CEL	study13_CHEMBL502495_500nM_4h_1
+TPA_500nM_1_8h	HepG2	Tetradecanoyl phorbol acetate	CHEMBL502495	NGTX	C	FALSE	DMSO_Cont_1_8h	500	nM	8	h	1	DMSO	GSM1404460_G09_TPA_500nM_1_8h.CEL	GSM1404415_F09_DMSO_Cont_1_8h.CEL	study13_CHEMBL502495_500nM_8h_1
+TPA_500nM_1_72h	HepG2	Tetradecanoyl phorbol acetate	CHEMBL502495	NGTX	C	FALSE	DMSO_Cont_1_72h	500	nM	72	h	1	DMSO	GSM1404463_E09_TPA_500nM_1_72h.CEL	GSM1404418_H07_DMSO_Cont_1_72h.CEL	study13_CHEMBL502495_500nM_72h_1
+TPA_500nM_2_4h	HepG2	Tetradecanoyl phorbol acetate	CHEMBL502495	NGTX	C	FALSE	DMSO_Cont_2_4h	500	nM	4	h	2	DMSO	GSM1404464_F05_TPA_500nM_2_4h.CEL	GSM1404419_E05_DMSO_Cont_2_4h.CEL	study13_CHEMBL502495_500nM_4h_2
+TPA_500nM_2_8h	HepG2	Tetradecanoyl phorbol acetate	CHEMBL502495	NGTX	C	FALSE	DMSO_Cont_2_8h	500	nM	8	h	2	DMSO	GSM1404465_G09_TPA_500nM_2_8h.CEL	GSM1404420_F09_DMSO_Cont_2_8h.CEL	study13_CHEMBL502495_500nM_8h_2
+TPA_500nM_2_72h	HepG2	Tetradecanoyl phorbol acetate	CHEMBL502495	NGTX	C	FALSE	DMSO_Cont_2_72h	500	nM	72	h	2	DMSO	GSM1404468_F05_TPA_500nM_2_72h.CEL	GSM1404423_H07_DMSO_Cont_2_72h.CEL	study13_CHEMBL502495_500nM_72h_2
+TPA_500nM_3_4h	HepG2	Tetradecanoyl phorbol acetate	CHEMBL502495	NGTX	C	FALSE	DMSO_Cont_3_4h	500	nM	4	h	3	DMSO	GSM1404469_F05_TPA_500nM_3_4h.CEL	GSM1404424_E05_DMSO_Cont_3_4h.CEL	study13_CHEMBL502495_500nM_4h_3
+TPA_500nM_3_8h	HepG2	Tetradecanoyl phorbol acetate	CHEMBL502495	NGTX	C	FALSE	DMSO_Cont_3_8h	500	nM	8	h	3	DMSO	GSM1404470_G09_TPA_500nM_3_8h.CEL	GSM1404425_F09_DMSO_Cont_3_8h.CEL	study13_CHEMBL502495_500nM_8h_3
+TPA_500nM_3_72h	HepG2	Tetradecanoyl phorbol acetate	CHEMBL502495	NGTX	C	FALSE	DMSO_Cont_3_72h	500	nM	72	h	3	DMSO	GSM1404473_G09_TPA_500nM_3_72h.CEL	GSM1404428_H07_DMSO_Cont_3_72h.CEL	study13_CHEMBL502495_500nM_72h_3
+Dman_250uM_1_4h	HepG2	D-mannitol	CHEMBL689	NGTX	NC	FALSE	HBSS_Cont_1_4h	250	uM	4	h	1	HBSS	GSM1404474_C07_Dman_250uM_1_4h.CEL	GSM1404489_H05_HBSS_Cont_1_4h.CEL	study13_CHEMBL689_250uM_4h_1
+Dman_250uM_1_8h	HepG2	D-mannitol	CHEMBL689	NGTX	NC	FALSE	HBSS_Cont_1_8h	250	uM	8	h	1	HBSS	GSM1404475_D05_Dman_250uM_1_8h.CEL	GSM1404490_C09_HBSS_Cont_1_8h.CEL	study13_CHEMBL689_250uM_8h_1
+Dman_250uM_1_72h	HepG2	D-mannitol	CHEMBL689	NGTX	NC	FALSE	HBSS_Cont_1_72h	250	uM	72	h	1	HBSS	GSM1404478_D09_Dman_250uM_1_72h.CEL	GSM1404493_D07_HBSS_Cont_1_72h.CEL	study13_CHEMBL689_250uM_72h_1
+Dman_250uM_2_4h	HepG2	D-mannitol	CHEMBL689	NGTX	NC	FALSE	HBSS_Cont_2_4h	250	uM	4	h	2	HBSS	GSM1404479_A07_Dman_250uM_2_4h.CEL	GSM1404494_C05_HBSS_Cont_2_4h.CEL	study13_CHEMBL689_250uM_4h_2
+Dman_250uM_2_8h	HepG2	D-mannitol	CHEMBL689	NGTX	NC	FALSE	HBSS_Cont_2_8h	250	uM	8	h	2	HBSS	GSM1404480_A09_Dman_250uM_2_8h.CEL	GSM1404495_C09_HBSS_Cont_2_8h.CEL	study13_CHEMBL689_250uM_8h_2
+Dman_250uM_2_72h	HepG2	D-mannitol	CHEMBL689	NGTX	NC	FALSE	HBSS_Cont_2_72h	250	uM	72	h	2	HBSS	GSM1404483_B05_Dman_250uM_2_72h.CEL	GSM1404498_D07_HBSS_Cont_2_72h.CEL	study13_CHEMBL689_250uM_72h_2
+Dman_250uM_3_4h	HepG2	D-mannitol	CHEMBL689	NGTX	NC	FALSE	HBSS_Cont_3_4h	250	uM	4	h	3	HBSS	GSM1404484_D07_Dman_250uM_3_4h.CEL	GSM1404499_C05_HBSS_Cont_3_4h.CEL	study13_CHEMBL689_250uM_4h_3
+Dman_250uM_3_8h	HepG2	D-mannitol	CHEMBL689	NGTX	NC	FALSE	HBSS_Cont_3_8h	250	uM	8	h	3	HBSS	GSM1404485_D05_Dman_250uM_3_8h.CEL	GSM1404500_C09_HBSS_Cont_3_8h.CEL	study13_CHEMBL689_250uM_8h_3
+Dman_250uM_3_72h	HepG2	D-mannitol	CHEMBL689	NGTX	NC	FALSE	HBSS_Cont_3_72h	250	uM	72	h	3	HBSS	GSM1404488_D09_Dman_250uM_3_72h.CEL	GSM1404503_D07_HBSS_Cont_3_72h.CEL	study13_CHEMBL689_250uM_72h_3
+HBSS_Cont_1_4h	HepG2	HBSS control		NGTX	NC	TRUE		0.5	perc	4	h	1		GSM1404489_H05_HBSS_Cont_1_4h.CEL		
+HBSS_Cont_1_8h	HepG2	HBSS control				TRUE		0.5	perc	8	h	1		GSM1404490_C09_HBSS_Cont_1_8h.CEL		
+HBSS_Cont_1_72h	HepG2	HBSS control				TRUE		0.5	perc	72	h	1		GSM1404493_D07_HBSS_Cont_1_72h.CEL		
+HBSS_Cont_2_4h	HepG2	HBSS control				TRUE		0.5	perc	4	h	2		GSM1404494_C05_HBSS_Cont_2_4h.CEL		
+HBSS_Cont_2_8h	HepG2	HBSS control				TRUE		0.5	perc	8	h	2		GSM1404495_C09_HBSS_Cont_2_8h.CEL		
+HBSS_Cont_2_72h	HepG2	HBSS control				TRUE		0.5	perc	72	h	2		GSM1404498_D07_HBSS_Cont_2_72h.CEL		
+HBSS_Cont_3_4h	HepG2	HBSS control				TRUE		0.5	perc	4	h	3		GSM1404499_C05_HBSS_Cont_3_4h.CEL		
+HBSS_Cont_3_8h	HepG2	HBSS control				TRUE		0.5	perc	8	h	3		GSM1404500_C09_HBSS_Cont_3_8h.CEL		
+HBSS_Cont_3_72h	HepG2	HBSS control				TRUE		0.5	perc	72	h	3		GSM1404503_D07_HBSS_Cont_3_72h.CEL		
+EtOH_Cont_1_4h	HepG2	ethanol control	CHEMBL545	NGTX	C	TRUE		0.5	perc	4	h	1		GSM1404504_C07_EtOH_Cont_1_4h.CEL	GSM1404489_H05_HBSS_Cont_1_4h.CEL	study13_CHEMBL545_0_5perc_4h_1
+EtOH_Cont_1_8h	HepG2	ethanol control	CHEMBL545	NGTX	C	TRUE		0.5	perc	8	h	1		GSM1404505_A09_EtOH_Cont_1_8h.CEL	GSM1404490_C09_HBSS_Cont_1_8h.CEL	study13_CHEMBL545_0_5perc_8h_1
+EtOH_Cont_1_72h	HepG2	ethanol control	CHEMBL545	NGTX	C	TRUE		0.5	perc	72	h	1		GSM1404508_B07_EtOH_Cont_1_72h.CEL	GSM1404493_D07_HBSS_Cont_1_72h.CEL	study13_CHEMBL545_0_5perc_72h_1
+EtOH_Cont_2_4h	HepG2	ethanol control	CHEMBL545	NGTX	C	TRUE		0.5	perc	4	h	2		GSM1404509_F07_EtOH_Cont_2_4h.CEL	GSM1404494_C05_HBSS_Cont_2_4h.CEL	study13_CHEMBL545_0_5perc_4h_2
+EtOH_Cont_2_8h	HepG2	ethanol control	CHEMBL545	NGTX	C	TRUE		0.5	perc	8	h	2		GSM1404510_A05_EtOH_Cont_2_8h.CEL	GSM1404495_C09_HBSS_Cont_2_8h.CEL	study13_CHEMBL545_0_5perc_8h_2
+EtOH_Cont_2_72h	HepG2	ethanol control	CHEMBL545	NGTX	C	TRUE		0.5	perc	72	h	2		GSM1404513_B07_EtOH_Cont_2_72h.CEL	GSM1404498_D07_HBSS_Cont_2_72h.CEL	study13_CHEMBL545_0_5perc_72h_2
+EtOH_Cont_3_4h	HepG2	ethanol control	CHEMBL545	NGTX	C	TRUE		0.5	perc	4	h	3		GSM1404514_A05_EtOH_Cont_3_4h.CEL	GSM1404499_C05_HBSS_Cont_3_4h.CEL	study13_CHEMBL545_0_5perc_4h_3
+EtOH_Cont_3_8h	HepG2	ethanol control	CHEMBL545	NGTX	C	TRUE		0.5	perc	8	h	3		GSM1404515_A09_EtOH_Cont_3_8h.CEL	GSM1404500_C09_HBSS_Cont_3_8h.CEL	study13_CHEMBL545_0_5perc_8h_3
+EtOH_Cont_3_72h	HepG2	ethanol control	CHEMBL545	NGTX	C	TRUE		0.5	perc	72	h	3		GSM1404518_B07_EtOH_Cont_3_72h.CEL	GSM1404503_D07_HBSS_Cont_3_72h.CEL	study13_CHEMBL545_0_5perc_72h_3
+TCE_2mM_1_4h	HepG2	tetrachloroethylene	CHEMBL114062	NGTX	C	FALSE	EtOH_Cont_1_4h	2	mM	4	h	1	ethanol	GSM1404519_A07_TCE_2mM_1_4h.CEL	GSM1404504_C07_EtOH_Cont_1_4h.CEL	study13_CHEMBL114062_2mM_4h_1
+TCE_2mM_1_8h	HepG2	tetrachloroethylene	CHEMBL114062	NGTX	C	FALSE	EtOH_Cont_1_8h	2	mM	8	h	1	ethanol	GSM1404520_D09_TCE_2mM_1_8h.CEL	GSM1404505_A09_EtOH_Cont_1_8h.CEL	study13_CHEMBL114062_2mM_8h_1
+TCE_2mM_1_72h	HepG2	tetrachloroethylene	CHEMBL114062	NGTX	C	FALSE	EtOH_Cont_1_72h	2	mM	72	h	1	ethanol	GSM1404523_B09_TCE_2mM_1_72h.CEL	GSM1404508_B07_EtOH_Cont_1_72h.CEL	study13_CHEMBL114062_2mM_72h_1
+TCE_2mM_2_4h	HepG2	tetrachloroethylene	CHEMBL114062	NGTX	C	FALSE	EtOH_Cont_2_4h	2	mM	4	h	2	ethanol	GSM1404524_D05_TCE_2mM_2_4h.CEL	GSM1404509_F07_EtOH_Cont_2_4h.CEL	study13_CHEMBL114062_2mM_4h_2
+TCE_2mM_2_8h	HepG2	tetrachloroethylene	CHEMBL114062	NGTX	C	FALSE	EtOH_Cont_2_8h	2	mM	8	h	2	ethanol	GSM1404525_E07_TCE_2mM_2_8h.CEL	GSM1404510_A05_EtOH_Cont_2_8h.CEL	study13_CHEMBL114062_2mM_8h_2
+TCE_2mM_2_72h	HepG2	tetrachloroethylene	CHEMBL114062	NGTX	C	FALSE	EtOH_Cont_2_72h	2	mM	72	h	2	ethanol	GSM1404528_G05_TCE_2mM_2_72h.CEL	GSM1404513_B07_EtOH_Cont_2_72h.CEL	study13_CHEMBL114062_2mM_72h_2
+TCE_2mM_3_4h	HepG2	tetrachloroethylene	CHEMBL114062	NGTX	C	FALSE	EtOH_Cont_3_4h	2	mM	4	h	3	ethanol	GSM1404529_A07_TCE_2mM_3_4h.CEL	GSM1404514_A05_EtOH_Cont_3_4h.CEL	study13_CHEMBL114062_2mM_4h_3
+TCE_2mM_3_8h	HepG2	tetrachloroethylene	CHEMBL114062	NGTX	C	FALSE	EtOH_Cont_3_8h	2	mM	8	h	3	ethanol	GSM1404530_A07_TCE_2mM_3_8h.CEL	GSM1404515_A09_EtOH_Cont_3_8h.CEL	study13_CHEMBL114062_2mM_8h_3
+TCE_2mM_3_72h	HepG2	tetrachloroethylene	CHEMBL114062	NGTX	C	FALSE	EtOH_Cont_3_72h	2	mM	72	h	3	ethanol	GSM1404533_B09_TCE_2mM_3_72h.CEL	GSM1404518_B07_EtOH_Cont_3_72h.CEL	study13_CHEMBL114062_2mM_72h_3

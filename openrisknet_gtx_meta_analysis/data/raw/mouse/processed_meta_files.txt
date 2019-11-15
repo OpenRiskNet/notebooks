@@ -1,0 +1,19 @@
+Processed files:
+1. study16_gse72081_SimpleTox_compounds_unnecessary_ctrls_deleted.xlsx
+
+2. meta_info_files_GSE44088.txt
+Here in the sheet gse44088_new I used PBS for all mouse 4 control vehicles, because there was only PBS as a control
+
+3. s_KM_8compounds.txt
+
+4. s_KM_4_compounds.txt
+
+5. ntc_wp4_1_1_s_Study_id.txt
+
+Being processed are followings:
+
+
+Files that should NOT be included in the analysis:
+meta_info_files_GSE43977.txt : because this experiment was done in vivo
+
+diff  <(cut -f15 mouse_meta_info_file_all_experiments_update03052018.tsv|grep study15|sort|uniq|sort) <(head -1 ../mg430_2_arrays/mg430_2_arrays_rma_normalized.tsv |tr '\t' '\n'|grep study15|sort|uniq|sort)|grep '>'|sed -re 's/^\s*>\s*//g'

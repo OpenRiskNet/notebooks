@@ -1,0 +1,14 @@
+Use in Big Data analysis?	Study_ID	Location	Dataset	Project	Species	Cell model	Group	Platform	CustomCDF	Remarks	# compounds	downloaded	normalized
+Yes	Study06	ftp://ftp.biosciencedbc.jp/archive/open-tggates/LATEST/Human/in_vitro/	DIXA-006	TG-GATEs	human	primary hepatocytes	in house	Affymetrix Human Genome U133 Plus 2.0 Array			158		
+Yes	Study07	/ngs-data/data_storage/transcriptomics/microarray/mrna/STW/Magkoufopoulou/	GSE28878	STW_Magkoufopoulou	human	HepG2	in house	Affymetrix Human Genome U133 Plus 2.0 Array			62		
+Yes	Study01	diXa data warehouse	DIXA-002	CarcinoGenomics	human	HepaRG	BPI	Affymetrix Human Genome U133 Plus 2.0 Array			29	yes	
+Yes	Study03	diXa data warehouse	DIXA-002	CarcinoGenomics	human	HepG2-up	HUL	Affymetrix Human Genome U133 Plus 2.0 Array				yes	
+Yes	Study08	diXa data warehouse	DIXA-029	Esnats	human	hSKP-HPC		Affymetrix Human Genome U133 Plus 2.0 Array			1		
+Yes	Study09	/ngs-data/data_storage/transcriptomics/microarray/mrna/NTC/NTC_WP4.1.3_E02/	DIXA-083	NTC_WP4.1.3_E02	human	HepG2	in house	Affymetrix Human Genome U133 Plus 2.0 Array			13		
+No			GSE51952	NTC_Van den Hof	human	HepG2	in house	Affymetrix Human Genome U133 Plus 2.0 Array		Data are already in NTC_WP4.1.3_E02 and Magkoufopoulou dataset	22		
+Yes	Study10	/ngs-data/data_storage/transcriptomics/microarray/mrna/Aanjaag/Ketelslegers/	E-MEXP-2458	Aanjaag_Jennen	human	HepaRG	in house	Affymetrix Human Genome U133 Plus 2.0 Array		E-MEXP-2458 contains besides HepaRG data also HepG2 data from Magkoufopoulou	5		
+Yes	Study04	diXa data warehouse	DIXA-002	CarcinoGenomics	human	hESC_DE-hep	CEL	Affymetrix Human Genome U133 Plus 2.0 Array				yes	
+Yes	Study02	diXa data warehouse	DIXA-002	CarcinoGenomics	human	HepG2	HUL	Affymetrix Human Genome U133 Plus 2.0 Array				yes	
+No				CarcinoGenomics_blinded compounds	human	HepaRG	in house	Affymetrix Human Genome U133 Plus 2.0 Array					
+Yes	Study05	/ngs-data/data_storage/transcriptomics/microarray/mrna/Carcinogenomics_extra/		CarcinoGenomics_extra	human	HepG2	in house	Affymetrix Human Genome U133 Plus 2.0 Array			7		
+Yes	Study11	/share/data/openrisknet/dixa_classification/data/raw/human/ntc/NTC_WP1.1.8_E01/	DIXA-042	NTC_WP1.1.8_E01	human	HepG2	DIXA	Affymetrix Human Genome U133 Plus 2.0 Array
