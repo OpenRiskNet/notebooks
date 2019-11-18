@@ -1,0 +1,24 @@
+# From within R
+# source("https://bioconductor.org/biocLite.R") # or http instead of https
+# biocLite("affy")
+biocLite('AnnotationDbi')
+install.packages(pkgs="/home/jbayjanov/projects/tgx/dixa_classification/library/R/packages/hgu133plus2hsensgcdf_22.0.0.tar.gz",repo=NULL)
+
+d1='/ngs-data/data/dixa_classification/data/raw/carcinogenomics/liver/micro/'
+cel1 = list.files(path=d1,pattern='CEL.*CEL$')
+library(affy)
+library('hgu133plus2hsensgcdf')
+rawData <- ReadAffy(filenames=cel1[c(1:4)], cdfname="hgu133plus2hsensg");
+setwd(d1)
+rawData <- ReadAffy(filenames=cel1[c(1:4)], cdfname="hgu133plus2hsensg");
+normData <- rma(rawData)
+
+wget http://mbni.org/customcdf/22.0.0/ensg.download/hgu133plus2hsensgcdf_22.0.0.tar.gz
+biocLite('AnnotationDbi')
+wget http://mbni.org/customcdf/22.0.0/ensg.download/rat2302rnensgcdf_22.0.0.tar.gz
+install.packages(pkgs="/home/jbayjanov/projects/tgx/dixa_classification/library/R/packages/rat2302rnensgcdf_22.0.0.tar.gz",repo=NULL)
+library('rat2302rnensgcdf')
+wget http://mbni.org/customcdf/22.0.0/ensg.download/hgu133a2hsensgcdf_22.0.0.tar.gz
+install.packages(pkgs="/home/jbayjanov/projects/tgx/dixa_classification/library/R/packages/hgu133a2hsensgcdf_22.0.0.tar.gz",repo=NULL)
+wget http://mbni.org/customcdf/22.0.0/ensg.download/hthgu133pluspmhsensgcdf_22.0.0.tar.gz
+install.packages(pkgs="/home/jbayjanov/projects/tgx/dixa_classification/library/R/packages/hthgu133pluspmhsensgcdf_22.0.0.tar.gz",repo=NULL)

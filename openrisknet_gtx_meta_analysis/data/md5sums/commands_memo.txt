@@ -1,0 +1,14 @@
+find /ngs-data/data_storage/transcriptomics/microarray/mrna -iname '*CEL*' |xargs -I{} md5sum {} >> mrna_CEL_files_md5sums.txt
+find /ngs-data/data_storage/data4transport/Rieswijk/Study_PMH_miRNA_mRNA_21_compounds/data/mRNA/ -iname '*CEL*'|xargs -I{} md5sum {} >> rieswijk_21cmps_md5sums.txt
+join -j 1  <(sort mrna_CEL_files_md5sums.txt ) <(sort rieswijk_21cmps_md5sums.txt )|sed -re 's/\s+/\t/g' > files_that_are_same.txt
+### When I checked the first command found less CEL files and, thus, mrna_CEL_files_md5sums.txt doesn't represent all files in that folder
+### So, I started doing it separately for each folder of interest separately
+ls /ngs-data/data_storage/transcriptomics/microarray/mrna/NTC/NTC_WP4.1.1_E01/*.CEL|xargs -I{} md5sum {} >> ntc_wp411_e01.txt
+join -j 1 <(sort ntc_wp411_e01.txt ) <(sort rieswijk_21cmps_md5sums.txt ) > rieswijk_ntc_wp411_overlap.txt
+ls /ngs-data/data_storage/transcriptomics/microarray/mrna/Aanjaag/Mathijs/KM_4_compounds_archive/*.CEL|xargs -I{} md5sum '{}' >> km4_cmps_md5sums.txt
+join -j 1 <( sort km4_cmps_md5sums.txt ) <( sort rieswijk_21cmps_md5sums.txt ) > rieswijk_km4_cmps_overlap.txt
+ls /ngs-data/data_storage/transcriptomics/microarray/mrna/Aanjaag/Mathijs/km_8_cmps_archive/*.CEL|xargs -I{} md5sum '{}' > km8_cmps_md5sums.txt
+join -j 1 <(sort rieswijk_21cmps_md5sums.txt ) <(sort km8_cmps_md5sums.txt ) > rieswijk_km8_cmps_overlap.txt
+ls /ngs-data/data_storage/transcriptomics/microarray/mrna/Aanjaag/Mathijs/E-MEXP-2636/*.CEL|xargs -I{} md5sum '{}' > e_mexp_2636_md5sums.txt
+join -j 1 <(sort rieswijk_21cmps_md5sums.txt ) <(sort e_mexp_2636_md5sums.txt ) > rieswijk_e_mexp_2636_overlap.txt
+make

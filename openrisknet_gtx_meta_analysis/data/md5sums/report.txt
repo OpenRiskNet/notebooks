@@ -1,0 +1,5 @@
+experiment	total	overlap
+NTC_WP_4.1.1_E01	48	12
+KM4_cmps	96	42
+KM8_cmps	68	26
+E2636	48	42

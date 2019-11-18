@@ -1,0 +1,13 @@
+sed -i.original -re 's/(REQUIRED_PYTHON\s*=\s*)("python")/\1"python3"/' test_environment.py 
+git add Makefile JB_commands_history.txt
+create_org_notebook.sh
+mv tmp.b6ierWVftS.org ./notebooks/dixa_classification_main.org
+sed -i.original -re 's/(PYTHON_INTERPRETER\s*=\s*)(python)/\1python3/' Makefile 
+make create_environment
+source activate dixa_classification
+make requirements
+mkdir tools
+cd tools
+wget https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.1.1-linux-x86_64.tar.bz2
+tar -jvxf phantomjs-2.1.1-linux-x86_64.tar.bz2
+cd ..

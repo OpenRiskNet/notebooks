@@ -1,0 +1,3 @@
+sudo docker build -f ./Dockerfile --network host --rm -t r_base_3_4_0:array .
+# This is how you build in ngs-calc, because it has an older version of Docker
+sudo docker build -f ./Dockerfile  --rm -t r_base_3.4.0:array .

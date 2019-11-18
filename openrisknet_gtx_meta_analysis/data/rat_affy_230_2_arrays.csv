@@ -1,0 +1,5 @@
+Use in Big Data analysis?	Study_ID	Location	Dataset	Project	Species	Cell model	Group	Platform	CustomCDF	Remarks	# compounds	downloaded	normalized
+Yes	Study21	diXa data warehouse	DIXA-002	CarcinoGenomics	rat	primary hepatocytes non-TSA treated	VUB	Affymetrix Rat Genome 230 2.0 Array				yes	
+Yes	Study22	diXa data warehouse	DIXA-002	CarcinoGenomics	rat	primary hepatocytes TSA treated	VUB	Affymetrix Rat Genome 230 2.0 Array				yes	
+Yes	Study23	ftp://ftp.biosciencedbc.jp/archive/open-tggates/LATEST/Rat/in_vitro/		TG-GATEs	rat	primary hepatocytes	in house	Affymetrix Rat Genome 230 2.0 Array					
+Yes	Study24	diXa data warehouse	DIXA-033	Drug matrix	rat	primary hepatocytes		Affymetrix Rat Genome 230 2.0 Array					

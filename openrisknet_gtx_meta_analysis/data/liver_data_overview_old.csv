@@ -1,0 +1,30 @@
+Use in Big Data analysis?	Study_ID	Location	Dataset	Project	Species	Cell model	Group	Platform	CustomCDF	Remarks	# compounds	downloaded	normalized
+Yes	Study01	diXa data warehouse	DIXA-002	CarcinoGenomics	human	HepaRG	BPI	Affymetrix Human Genome U133 Plus 2.0 Array			29	yes	
+Yes	Study02	diXa data warehouse	DIXA-002	CarcinoGenomics	human	HepG2	HUL	Affymetrix Human Genome U133 Plus 2.0 Array				yes	
+Yes	Study03	diXa data warehouse	DIXA-002	CarcinoGenomics	human	HepG2-up	HUL	Affymetrix Human Genome U133 Plus 2.0 Array				yes	
+Yes	Study04	diXa data warehouse	DIXA-002	CarcinoGenomics	human	hESC_DE-hep	CEL	Affymetrix Human Genome U133 Plus 2.0 Array				yes	
+No				CarcinoGenomics_blinded compounds	human	HepaRG	in house	Affymetrix Human Genome U133 Plus 2.0 Array					
+Yes	Study05	/ngs-data/data_storage/transcriptomics/microarray/mrna/Carcinogenomics_extra/		CarcinoGenomics_extra	human	HepG2	in house	Affymetrix Human Genome U133 Plus 2.0 Array			7		
+Yes	Study06	ftp://ftp.biosciencedbc.jp/archive/open-tggates/LATEST/Human/in_vitro/	DIXA-006	TG-GATEs	human	primary hepatocytes	in house	Affymetrix Human Genome U133 Plus 2.0 Array		in house files are the same as from TG-GATEs ftp-site; DIXA-006 contains data from only 118 compounds (see earliest data folder on TG-GATEs ftp-site)	158		
+Yes	Study07	/ngs-data/data_storage/transcriptomics/microarray/mrna/STW/Magkoufopoulou/	GSE28878	STW_Magkoufopoulou	human	HepG2	in house	Affymetrix Human Genome U133 Plus 2.0 Array			62		
+Yes	Study08	diXa data warehouse	DIXA-028	Predictomics	human	primary hepatocytes		Affymetrix Human Genome U133A 2.0 Array					
+Yes	Study09	diXa data warehouse	DIXA-028	Predictomics	human	HepG2		Affymetrix Human Genome U133A 2.0 Array					
+Yes	Study10	diXa data warehouse	DIXA-029	Esnats	human	hSKP-HPC		Affymetrix Human Genome U133 Plus 2.0 Array			1		
+Yes	Study11	/ngs-data/data_storage/transcriptomics/microarray/mrna/NTC/NTC_WP4.1.3_E02/	DIXA-083	NTC_WP4.1.3_E02	human	HepG2	in house	Affymetrix Human Genome U133 Plus 2.0 Array			13		
+No			GSE51952	NTC_Van den Hof	human	HepG2	in house	Affymetrix Human Genome U133 Plus 2.0 Array		Data are already in NTC_WP4.1.3_E02 and Magkoufopoulou dataset	22		
+Yes	Study12	/ngs-data/data_storage/transcriptomics/microarray/mrna/Aanjaag/Ketelslegers/	E-MEXP-2458	Aanjaag_Jennen	human	HepaRG	in house	Affymetrix Human Genome U133 Plus 2.0 Array		E-MEXP-2458 contains besides HepaRG data also HepG2 data from Magkoufopoulou	5		
+Yes	Study13	/ngs-data/data_storage/transcriptomics/microarray/mrna/Deferme/GSE58235_RAW/	GSE58235	Deferme	human	HepG2	in house	Affymetrix HT HG-U133+ PM Array Plate		Also contains data using Affymetrix Human Genome U133 Plus 2.0 Array. These are coming from Magkoufopoulou study!			
+Yes	Study14	/ngs-data/data_storage/transcriptomics/microarray/mrna/Deferme/Lize_3compounds_archive/		Deferme	human	HepG2	in house	Affymetrix HT HG-U133+ PM Array Plate			3		
+													
+			DIXA-077	NTC_WP4.1.1_E01	mouse	primary hepatocytes	in house	Affymetrix Mouse Genome 430 2.0 Array			3		
+			GSE72081	NTC_Rieswijk	mouse	primary hepatocytes	in house	Affymetrix Mouse Genome 430 2.0 Array			21		
+		/ngs-data/data_storage/transcriptomics/microarray/mrna/Aanjaag/Mathijs/KM_4_compounds_archive/		Aanjaag_Mathijs	mouse	primary hepatocytes	in house	Affymetrix Mouse Genome 430 2.0 Array					
+			E-MEXP-2209	Aanjaag_Mathijs	mouse	primary hepatocytes	in house	Affymetrix Mouse Genome 430 2.0 Array			6		
+			E-MEXP-2539	Aanjaag_Mathijs/Jennen	mouse	primary hepatocytes	in house	Affymetrix Mouse Genome 430 2.0 Array			8		
+		/ngs-data/data_storage/transcriptomics/microarray/mrna/Aanjaag/Mathijs/E-MEXP-2636/	E-MEXP-2636	Aanjaag_Jennen	mouse	primary hepatocytes	in house ?	Affymetrix Mouse Genome 430 2.0 Array			5		
+													
+													
+		diXa data warehouse	DIXA-002	CarcinoGenomics	rat	primary hepatocytes non-TSA treated	VUB	Affymetrix Rat Genome 230 2.0 Array				yes	
+		diXa data warehouse	DIXA-002	CarcinoGenomics	rat	primary hepatocytes TSA treated	VUB	Affymetrix Rat Genome 230 2.0 Array				yes	
+				TG-GATEs	rat	primary hepatocytes	in house	Affymetrix Rat Genome 230 2.0 Array					
+		diXa data warehouse	DIXA-033	Drug matrix	rat	primary hepatocytes		Affymetrix Rat Genome 230 2.0 Array					
