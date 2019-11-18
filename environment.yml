@@ -1,0 +1,6 @@
+# Build environment to run the MetaP case study notebooks in a Binder container
+name: notebooks
+channels:
+  - conda-forge
+dependencies:
+  - rdkit
