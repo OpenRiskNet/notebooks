@@ -12,7 +12,7 @@ compounds. These are:
 ## Quick start
 
 Can't wait to try it out? Click the `launch binder` button, this will start a fully operational 
-[Binder](https://github.com/MD-Studio/MDStudio_SMARTCyp) service in your browser for you to play
+[Binder](https://mybinder.org) service in your browser for you to play
 with.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenRiskNet/notebooks/master?filepath=MetaP)
